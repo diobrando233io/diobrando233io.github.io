@@ -1,135 +1,135 @@
-@name lanjie v.2
-@inputs 
-@outputs TAR:entity T S A A1 A2 FE:entity E:array I
-@model 
-#Maked in china
-#By du nai feng
-entity():propNotSolid(1)
-interval(1)
-if (first()|duped()) {
-    #E:pushEntity(owner())
-    noCollideAll(entity(),0)
-    propSpawnUndo(0)
-    holoCreate(1)
-    holoModel(1,"models/bull/various/speaker.mdl")
-    holoParent(1,entity())
-    holoPos(1,entity():toWorld(vec(0,0,40)))
-    holoScale(1,vec(4,1,1))
-    holoCreate(10)
-    holoModel(10,"models/cheeze/wires/cpu.mdl")
-    holoParent(10,1)
-    holoPos(10,entity():toWorld(vec(18,0,40)))
-    holoAng(10,holoEntity(1):toWorld(ang(90,0,0)))
-    holoScale(10,vec(1,1,1))
-    holoCreate(11)
-    holoModel(11,"models/hunter/tubes/circle2x2.mdl")
-    holoPos(11,entity():toWorld(vec(18,0,40)))
-    holoParent(11,1)
-    holoAng(11,holoEntity(1):toWorld(ang(90,0,0)))
-    holoColor(11,vec(255,0,0))
-    holoScale(11,vec(0.1,0.1,0.1))
-    holoMaterial(11,"models/debug/debugwhite")
-    holoCreate(12)
-    holoModel(12,"icosphere2")
-    holoPos(12,holoEntity(1):toWorld(vec(16,0,0)))
-    holoParent(12,holoEntity(1))
-    holoScale(12,vec(0.82,0.82,0.82))
-    holoColor(12,vec(0,255,0))
-    holoDisableShading(12,1)
-    holoAlpha(12,80)
-    holoMaterial(12,"models/debug/debugwhite")
+@name lanjie v.2<br><br>
+@inputs <br>
+@outputs TAR:entity T S A A1 A2 FE:entity E:array I<br>
+@model <br>
+#Maked in china<br>
+#By du nai feng<br>
+entity():propNotSolid(1)<br>
+interval(1)<br>
+if (first()|duped()) {<br>
+    #E:pushEntity(owner())<br>
+    noCollideAll(entity(),0)<br>
+    propSpawnUndo(0)<br>
+    holoCreate(1)<br>
+    holoModel(1,"models/bull/various/speaker.mdl")<br>
+    holoParent(1,entity())<br>
+    holoPos(1,entity():toWorld(vec(0,0,40)))<br>
+    holoScale(1,vec(4,1,1))<br>
+    holoCreate(10)<br>
+    holoModel(10,"models/cheeze/wires/cpu.mdl")<br>
+    holoParent(10,1)<br>
+    holoPos(10,entity():toWorld(vec(18,0,40)))<br>
+    holoAng(10,holoEntity(1):toWorld(ang(90,0,0)))<br>
+    holoScale(10,vec(1,1,1))<br>
+    holoCreate(11)<br>
+    holoModel(11,"models/hunter/tubes/circle2x2.mdl")<br>
+    holoPos(11,entity():toWorld(vec(18,0,40)))<br>
+    holoParent(11,1)<br>
+    holoAng(11,holoEntity(1):toWorld(ang(90,0,0)))<br>
+    holoColor(11,vec(255,0,0))<br>
+    holoScale(11,vec(0.1,0.1,0.1))<br>
+    holoMaterial(11,"models/debug/debugwhite")<br>
+    holoCreate(12)<br>
+    holoModel(12,"icosphere2")<br>
+    holoPos(12,holoEntity(1):toWorld(vec(16,0,0)))<br>
+    holoParent(12,holoEntity(1))<br>
+    holoScale(12,vec(0.82,0.82,0.82))<br>
+    holoColor(12,vec(0,255,0))<br>
+    holoDisableShading(12,1)<br>
+    holoAlpha(12,80)<br>
+    holoMaterial(12,"models/debug/debugwhite")<br>
 
     
     
 
 
-}
-findExcludePlayerProps("毒奶")
-findExcludeClass("npc_barnacl_*")
-findExcludeClass("npc_mover")
-findExcludeClass("npc_heli_avoidsphere")
-findExcludeClass("npc_combine_camera")
-findExcludeClass("npc_turret_ceiling")
-findExcludeClass("npc_helicopter")
-findExcludeClass("gmod_wire_spawner")
-findExcludeClass("gmod_contr_spawner")
-findIncludeModel("models/props_phx/misc/flakshell_big.mdl")
-findIncludeModel("models/props_phx/amraam.mdl")
-findIncludeModel("models/props_phx/ww2bomb.mdl")
-findIncludeModel("models/props_phx/torpedo.mdl")
-findIncludeModel("models/props_c17/oildrum001_explosive.mdl")
-findIncludeModel("models/props_junk/gascan001a.mdl")
-findIncludeModel("models/props_junk/propane_tank001a.mdl")
-findIncludeModel("models/props_phx/oildrum001_explosive.mdl")
-findIncludeModel("models/props_phx/ball.mdl")
-findIncludeModel("models/props_phx/mk-82.mdl")
-findIncludeClass("gmod_balloon")
-findIncludeClass("npc_*")
-findInSphere(entity():pos(),2000000)
-for (I=1,E:count()) {
-findExcludePlayerProps(E[I,entity])
-}
-FE=findResult(1)
-if (T<=500) {
-    T=T+10
-}
-if (FE:isValid()) {
-    holoAng(1,(FE:pos() - holoEntity(1):pos()):toAngle())
-}
-
-
-
-if (FE:isValid()&T>=350) {
-    I++
-    holoCreate(I+10)
+}<br>
+findExcludePlayerProps("毒奶")<br>
+findExcludeClass("npc_barnacl_*")<br>
+findExcludeClass("npc_mover")<br>
+findExcludeClass("npc_heli_avoidsphere")<br>
+findExcludeClass("npc_combine_camera")<br>
+findExcludeClass("npc_turret_ceiling")<br>
+findExcludeClass("npc_helicopter")<br>
+findExcludeClass("gmod_wire_spawner")<br>
+findExcludeClass("gmod_contr_spawner")<br>
+findIncludeModel("models/props_phx/misc/flakshell_big.mdl")<br>
+findIncludeModel("models/props_phx/amraam.mdl")<br>
+findIncludeModel("models/props_phx/ww2bomb.mdl")<br>
+findIncludeModel("models/props_phx/torpedo.mdl")<br>
+findIncludeModel("models/props_c17/oildrum001_explosive.mdl")<br>
+findIncludeModel("models/props_junk/gascan001a.mdl")<br>
+findIncludeModel("models/props_junk/propane_tank001a.mdl")<br>
+findIncludeModel("models/props_phx/oildrum001_explosive.mdl")<br>
+findIncludeModel("models/props_phx/ball.mdl")<br>
+findIncludeModel("models/props_phx/mk-82.mdl")<br>
+findIncludeClass("gmod_balloon")<br>
+findIncludeClass("npc_*")<br>
+findInSphere(entity():pos(),2000000)<br>
+for (I=1,E:count()) {<br>
+findExcludePlayerProps(E[I,entity])<br>
+}<br>
+FE=findResult(1)<br>
+if (T<=500) {<br>
+    T=T+10<br>
+}<br>
+if (FE:isValid()) {<br>
+    holoAng(1,(FE:pos() - holoEntity(1):pos()):toAngle())<br>
+}<br>
+<br>
+<br>
+<br>
+if (FE:isValid()&T>=350) {<br>
+    I++<br>
+    holoCreate(I+10)<br>
     holoAlpha(I+10,0)
     holoEntity(I+10):soundPlay(0,0,"weapons/flaregun/fire.wav")
     holoCreate(2)
     holoCreate(3)
     holoCreate(4)
-    holoModel(3,"models/hunter/tubes/tube1x1x8.mdl")
-    holoModel(2,"models/hunter/tubes/tube1x1x8.mdl")
-    holoModel(4,"models/hunter/tubes/tube1x1x8.mdl")
-    holoColor(2,vec(255,0,255))
-    holoColor(3,vec(0,255,255))
-    holoColor(4,vec(0,255,0))
-    holoAlpha(3,A)
-    holoAlpha(2,A1)
-    holoAlpha(4,A2)
-    holoMaterial(2,"models/debug/debugwhite")
-    holoMaterial(3,"models/debug/debugwhite")
-    holoMaterial(4,"models/alyx/emptool_glow")
-    holoScale(2,vec(-0.2,-0.2,1000000))
-    holoScale(3,vec(-0.1,-0.1,1000000))
-    holoScale(4,vec(-0.3,-0.3,1000000))
-    holoDisableShading(2,1)
-    holoDisableShading(3,1)
-    holoPos(2,holoEntity(1):toWorld(vec(19,0,0)))
-    holoPos(3,holoEntity(1):toWorld(vec(19,0,0)))
-    holoPos(4,holoEntity(1):toWorld(vec(19,0,0)))
-    holoAng(2,holoEntity(1):toWorld(ang(0,90,90)))
-    holoAng(3,holoEntity(1):toWorld(ang(0,90,90)))
-    holoAng(4,holoEntity(1):toWorld(ang(0,90,90)))
-    B=propSpawn("models/props_phx/mk-82.mdl",FE:toWorld(vec(0,0,10)),1)
-    B:propBreak()
-    FE:propBreak()
+    holoModel(3,"models/hunter/tubes/tube1x1x8.mdl")<br>
+    holoModel(2,"models/hunter/tubes/tube1x1x8.mdl")<br>
+    holoModel(4,"models/hunter/tubes/tube1x1x8.mdl")<br>
+    holoColor(2,vec(255,0,255))<br>
+    holoColor(3,vec(0,255,255))<br>
+    holoColor(4,vec(0,255,0))<br>
+    holoAlpha(3,A)<br>
+    holoAlpha(2,A1)<br>
+    holoAlpha(4,A2)<br>
+    holoMaterial(2,"models/debug/debugwhite")<br>
+    holoMaterial(3,"models/debug/debugwhite")<br>
+    holoMaterial(4,"models/alyx/emptool_glow")<br>
+    holoScale(2,vec(-0.2,-0.2,1000000))<br>
+    holoScale(3,vec(-0.1,-0.1,1000000))<br>
+    holoScale(4,vec(-0.3,-0.3,1000000))<br>
+    holoDisableShading(2,1)<br>
+    holoDisableShading(3,1)<br>
+    holoPos(2,holoEntity(1):toWorld(vec(19,0,0)))<br>
+    holoPos(3,holoEntity(1):toWorld(vec(19,0,0)))<br>
+    holoPos(4,holoEntity(1):toWorld(vec(19,0,0)))<br>
+    holoAng(2,holoEntity(1):toWorld(ang(0,90,90)))<br>
+    holoAng(3,holoEntity(1):toWorld(ang(0,90,90)))<br>
+    holoAng(4,holoEntity(1):toWorld(ang(0,90,90)))<br>
+    B=propSpawn("models/props_phx/mk-82.mdl",FE:toWorld(vec(0,0,10)),1)<br>
+    B:propBreak()<br>
+    FE:propBreak()<br>
 
-    T=1
-    S=1
-}
-if (S==1) {
-    A=A-1
-    A1=A1-1
-    A2=A1-1
-    holoAlpha(3,A)
-    holoAlpha(2,A1)
-    holoAlpha(4,A2)
-}
-if (A<=0&A1<=0) {
-    A=100
-    A1=80
-    A2=120
-    S=0
-    propDeleteAll()
-}
-if (owner():keyPressed("b")&owner():aimEntity():isPlayer()) {E:pushEntity(owner():aimEntity())}
+    T=1<br>
+    S=1<br>
+}<br>
+if (S==1) {<br>
+    A=A-1<br>
+    A1=A1-1<br>
+    A2=A1-1<br>
+    holoAlpha(3,A)<br>
+    holoAlpha(2,A1)<br>
+    holoAlpha(4,A2)<br>
+}<br>
+if (A<=0&A1<=0) {<br>
+    A=100<br>
+    A1=80<br>
+    A2=120<br>
+    S=0<br>
+    propDeleteAll()<br>
+}<br>
+if (owner():keyPressed("b")&owner():aimEntity():isPlayer()) {E:pushEntity(owner():aimEntity())}<br>
