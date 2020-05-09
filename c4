@@ -1,0 +1,259 @@
+@name C4 csgo
+@inputs 
+@persist Planted Time Player:entity A Defused CD W PlPasW:string Defusing PD:entity K MaxTime DefuseTime
+@persist [TEXT1Planting TEXT2Planted TEXT3TIMER1 TEXT3TIMER2 TEXT4Defusing TEXT4DefusingHand TEXT5Defused TEXT6TW TEXT7CTW TEXT8 TEXT9]:string
+@trigger 
+@model models/weapons/w_c4_planted.mdl
+interval(1)
+TEXT1Planting="正在安放炸弹..."
+TEXT2Planted="炸弹已被安放。 "
+TEXT3TIMER1="离引爆还剩 "
+TEXT3TIMER2=" 秒。"
+TEXT4Defusing="你正在拆除炸弹。"
+TEXT4DefusingHand="你正在徒手拆除炸弹。"
+TEXT5Defused="炸弹已被拆除。"
+TEXT6TW="恐怖分子胜利！ "
+TEXT7CTW="反恐精英胜利！ "
+TEXT8=" 拆除了炸弹。"
+TEXT9=" 安放了炸弹。"
+
+function void sp(S:string)
+{
+    K++
+    holoCreate(K)
+    holoPos(K,entity():pos())
+    holoAlpha(K,0)
+    holoEntity(K):soundPlay(K,0,S)
+    holoDelete(K-10)
+}
+if(first()){holoCreate(1),holoAlpha(1,0),holoParent(1,entity())}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              holoAlpha(1,0) holoScale(1,vec(0))
+if(first())
+{   
+    
+}
+
+if(!W)
+{
+    findIncludeClass("player")
+    findInSphere(entity():pos(),40)
+    Player=findToArray()[1,entity]
+}
+
+
+
+
+if(!Defused)
+{
+    if(Player:keyUse()&!Planted&Player:aimEntity()==entity()){
+        A++
+        switch(A)
+        {    
+            case 1, PlPasW="*******"  break
+            case 21, PlPasW="******7" sp("buttons/button3.wav") break
+            case 42, PlPasW="*****73" sp("buttons/button3.wav") break 
+            case 63, PlPasW="****735" sp("buttons/button3.wav") break
+            case 84, PlPasW="***7355" sp("buttons/button3.wav") break
+            case 105, PlPasW="**73556" sp("buttons/button3.wav") break
+            case 126, PlPasW="*735560" sp("buttons/button3.wav") break
+            case 145, PlPasW="7355608" sp("buttons/button3.wav") break
+        }
+        setName("["+PlPasW+"]\n"+TEXT1Planting+" ("+round(A/1.5)+"/100 %) ")
+    }
+    else
+    {
+        A=0
+        if(!Planted){setName("C4")}
+    }
+    
+    if(A>=150){
+        Planted=1
+        A=0
+        MaxTime=40
+        Time=MaxTime
+        setName(TEXT2Planted+"\n "+TEXT3TIMER1+Time+TEXT3TIMER2)
+        entity():propStatic(1)
+        sp("Event.BombPlanted")
+        PD=Player
+        concmd("say "+TEXT2Planted+TEXT3TIMER1+Time+TEXT3TIMER2)
+    }
+    
+    if(Planted&changed(Planted))
+    {
+        lightCreate(1,entity():toWorld(vec(0,0,10)))
+        lightParent(1,entity())
+        lightColor(1,vec(255,0,0))
+        lightDistance(1,60)
+        lightBrightness(1,0)
+        timer("Ar",1000)
+        timer("can defuse",1500)
+    }
+    
+    if(clk("can defuse")){CD=1}
+    if(clk("Ar"))
+    {
+        if(!W)
+        {
+            Time=Time-1
+            timer("beep", 1000/(Time/MaxTime))
+            setName(TEXT2Planted+"\n "+TEXT3TIMER1+Time+TEXT3TIMER2)
+            timer("Ar",1000)
+        }
+    }
+    
+    if(Time==1){CD=0}
+    if(Time==5&changed(Time)){sp("radio/blow.wav")}
+    if(Planted)
+    {
+        if(clk("beep"))
+        {
+            sp("lostcoast.bomb_beep")
+            timer("beep",1000*(Time/30))
+            if(Time>=2)
+            {
+                lightBrightness(1,100)
+                timer("tFLi",100)
+            }
+            else
+            {
+                lightBrightness(1,2555)
+                lightColor(1,vec(100,255,100))
+            }
+        }
+    
+    }
+    
+    if(Time<=0&Planted)
+    {
+        W=1
+        Planted=0
+        timer("k",100)
+        timer("del1",5000)
+    }
+    
+    if(CD)
+    {
+        if(Player:keyUse()&Planted&Player:aimEntity()==entity())
+        {
+            Defusing=1
+        }
+        else
+        {
+            DefuseTime=0
+            Defuseing=0
+            if(Planted)
+            {
+                setName(TEXT2Planted+"\n "+TEXT3TIMER1+Time+TEXT3TIMER2)
+            }
+        }
+    }
+    
+    if(Defusing&changed(Defusing)){timer("Defuse",1)}
+    if(clk("Defuse"))
+    {      
+        DefuseTime=DefuseTime+0.01
+        if(Player:weapon():type()=="weapon_crowbar")
+        {   
+            setName(TEXT4Defusing+" ("+round(((DefuseTime)/5)*100)+" / 100%) ["+round(5-DefuseTime,3)+"]\n"+TEXT3TIMER1+Time+TEXT3TIMER2)
+        }
+        else
+        {
+            setName(TEXT4DefusingHand+" ("+round(((DefuseTime)/10)*100)+" / 100%) ["+round(10-DefuseTime,3)+"]\n"+TEXT3TIMER1+Time+TEXT3TIMER2)
+        }
+        if(Defusing){timer("Defuse",1)}
+    }
+}
+
+#################################################################
+
+if(changed(Player:weapon())&Defusing){DefuseTime=0}
+if(DefuseTime>=5&Player:weapon():type()=="weapon_crowbar")
+{
+    PD=Player
+    Planted=0
+    CD=0
+    setName(TEXT5Defused)
+    Defused=1
+    Defusing=0
+    DefuseTime=0
+    lightColor(1,vec(0,255,0))
+    lightBrightness(1,100)
+    entity():propStatic(0)
+    timer("del",5000)
+    sp("Event.BombDefused")
+    concmd("say "+TEXT7CTW+PD:name()+TEXT8)
+    timer("say2",1500)
+}
+
+if(DefuseTime>=10&Player:weapon():type()!="weapon_crowbar")
+{
+    PD=Player
+    Planted=0
+    CD=0
+    setName(TEXT5Defused)
+    Defused=1
+    Defusing=0
+    DefuseTime=0
+    lightColor(1,vec(0,255,0))
+    lightBrightness(1,100)
+    entity():propStatic(0)
+    timer("del",5000)
+    sp("Event.BombDefused")
+    concmd("say "+TEXT7CTW+PD:name()+TEXT8)
+    timer("say2",1500)
+}
+
+if(clk("del")){selfDestruct()}
+if(clk("del1")){selfDestruct()}
+if(clk("say2")){sp("radio/ctwin.wav")}
+if(clk("k"))
+{
+    lightBrightness(1,0)
+    concmd("say "+TEXT6TW+PD:name()+TEXT9)
+    sp("radio/terwin.wav")
+    propSpawn("models/props_phx/ww2bomb.mdl",1):propBreak()   
+    entity():setAlpha(0)
+    entity():propNotSolid(1)
+    if(!entity():isWeldedTo():isValid())
+    {
+        findIncludeClass("prop_*")
+        findIncludeClass("gmod_*")
+        findIncludeClass("sent_*")
+        findIncludeClass("fishing_*")
+        findIncludeClass("npc_*")
+        findIncludeClass("func_*")
+        findIncludeClass("debris")
+        findIncludeClass("acf_*")
+        findIncludeClass("lunasfightsschool_*")
+        findInSphere(entity():pos(),1000)
+        Array=findToArray()
+        for(I=1,Array:count())
+        {
+            Array[I,entity]:propFreeze(0)
+            Array[I,entity]:constraintBreak()
+            noCollideAll(Array[I,entity],1)
+            if((Array[I,entity]:pos():distance(entity():pos()))<=350)
+            {
+                Array[I,entity]:applyForce((Array[I,entity]:pos() - entity():pos())*Array[I,entity]:mass()*10)
+                Array[I,entity]:setMaterial("models/props_wasteland/metal_tram001a")
+            }
+            else
+            {
+                Array[I,entity]:applyForce((Array[I,entity]:pos() - entity():pos())*Array[I,entity]:mass()*5)
+            }
+            if(Array[I,entity]:health()){Array[I,entity]:propBreak()}
+        }
+    }
+    else
+    {   
+
+        entity():isWeldedTo():propFreeze(0)
+        entity():isWeldedTo():constraintBreak()
+        entity():isWeldedTo():setMaterial("models/props_wasteland/metal_tram001a")
+        entity():isWeldedTo():applyForce((entity():isWeldedTo():pos() - entity():pos())*entity():isWeldedTo():mass()*5)
+    }
+}
+if(clk("tFLi")){lightBrightness(1,0)}
+
+
+
+
