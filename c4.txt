@@ -68,7 +68,7 @@ if(!Defused)
     if(A>=150){
         Planted=1
         A=0
-        MaxTime=40
+        MaxTime=10
         Time=MaxTime
         setName(TEXT2Planted+"\n "+TEXT3TIMER1+Time+TEXT3TIMER2)
         entity():propStatic(1)
