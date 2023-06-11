@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Gravel Floor|砂利床
+Wood Floor D|木の床D
+Wood Floor E|木の床E
+Wood Floor F|木の床F
+Wood Floor G|木の床G
+Wood Floor H|木の床H
+Wood Floor I|木の床I
+Transparent|透明
+Gravel Floor|砂利床
+Wood Floor D|木の床D
+Wood Floor E|木の床E
+Wood Floor F|木の床F
+Wood Floor G|木の床G
+Wood Floor H|木の床H
+Wood Floor I|木の床I
+Brick Floor|レンガの床
+Wood Floor A|木の床A
+Wood Floor B|木の床B
+Wood Floor C|木の床C
+Stone Floor B|石床B
+Stone Floor C|石床C
+Stone Floor F|石床F
+Stone Floor E|石床E
+Wood Floor B|木の床B
+Wood Floor B|木の床B
+Wood Floor B|木の床B
+Stone Floor A|石床A
+Stone Floor B|石床B
+Stone Floor D|石床D
+Stone Floor F|石床F
+Stone Floor G|石床G
+Wood Floor B2|木の床B2
+Wood Floor B2|木の床B2
+Gravel Floor|砂利床
+Gravel Floor|砂利床
+Rug I|じゅうたんI
+Rug G|じゅうたんG
+Rug A|じゅうたんA
+Rug J|じゅうたんJ
+Wood Floor B2|木の床B2
+Wood Floor B2|木の床B2
+Gravel Floor|砂利床
+Gravel Floor|砂利床
+Rug K|じゅうたんK
+Rug H|じゅうたんH
+Rug F|じゅうたんF
+Rug L|じゅうたんL
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Hole|穴
+Wall A|壁A
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A|壁A
+Wall A (Attic)|壁A（屋根裏）
+Attic Window A (Wall A)|屋根裏の窓A（壁A）
+Attic Window A (Wall A, Dark)|屋根裏の窓A（壁A・暗闇）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Attic Window B (Wall A)|屋根裏の窓B（壁A）
+Attic Window B (Wall A, Dark)|屋根裏の窓B（壁A・暗闇）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Wall A (Attic)|壁A（屋根裏）
+Attic Window B (Wall A)|屋根裏の窓B（壁A）
+Attic Window B (Wall A, Dark)|屋根裏の窓B（壁A・暗闇）
+Wall R (No Coffin, Top)|壁R（棺なし・上端）
+Wall R (No Coffin, Top)|壁R（棺なし・上端）
+Wall R (Coffin A, Top)|壁R（棺A・上端）
+Wall R (Coffin A, Top)|壁R（棺A・上端）
+Wall R (Coffin B, Top)|壁R（棺B・上端）
+Wall R (Coffin B, Top)|壁R（棺B・上端）
+Wall R (Coffin C, Top)|壁R（棺C・上端）
+Wall R (Coffin C, Top)|壁R（棺C・上端）
+Wall R (No Coffin)|壁R（棺なし）
+Wall R (No Coffin)|壁R（棺なし）
+Wall R (Coffin A)|壁R（棺A）
+Wall R (Coffin A)|壁R（棺A）
+Wall R (Coffin B)|壁R（棺B）
+Wall R (Coffin B)|壁R（棺B）
+Wall R (Coffin C)|壁R（棺C）
+Wall R (Coffin C)|壁R（棺C）
+Wall R (No Coffin, Bottom)|壁R（棺なし・下端）
+Wall R (No Coffin, Bottom)|壁R（棺なし・下端）
+Wall R (Coffin A, Bottom)|壁R（棺A・下端）
+Wall R (Coffin A, Bottom)|壁R（棺A・下端）
+Wall R (Coffin B, Bottom)|壁R（棺B・下端）
+Wall R (Coffin B, Bottom)|壁R（棺B・下端）
+Wall R (Coffin C, Bottom)|壁R（棺C・下端）
+Wall R (Coffin C, Bottom)|壁R（棺C・下端）
+Stairs A (Stone, Left)|階段A（石・左）
+Stairs A (Stone, Center)|階段A（石・中央）
+Stairs A (Stone, Right)|階段A（石・右）
+Stairs B (Stone)|階段B（石）
+Stairs C (Stone, Left)|階段C（石・左）
+Stairs C (Stone, Center)|階段C（石・中央）
+Stairs C (Stone, Right)|階段C（石・右）
+Stairs D (Stone)|階段D（石）

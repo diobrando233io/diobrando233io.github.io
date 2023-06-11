@@ -1,0 +1,48 @@
+﻿Wall A|壁A
+Wall B|壁B
+Wall C|壁C
+Wall D|壁D
+Wall E|壁E
+Wall F|壁F
+Wall G|壁G
+Wall H|壁H
+Wall A|壁A
+Wall B|壁B
+Wall C|壁C
+Wall D|壁D
+Wall E|壁E
+Wall F|壁F
+Wall G|壁G
+Wall H|壁H
+Wall I (Bookshelf)|壁I（本棚）
+Wall J (Bookshelf)|壁J（本棚）
+Wall K|壁K
+Wall L|壁L
+Wall M|壁M
+Wall N|壁N
+Wall O|壁O
+Wall P|壁P
+Wall I (Bookshelf A)|壁I（本棚A）
+Wall J (Bookshelf B)|壁J（本棚B）
+Wall K|壁K
+Wall L|壁L
+Wall M|壁M
+Wall N|壁N
+Wall O|壁O
+Wall P|壁P
+Wall Q|壁Q
+Wall R|壁R
+Wall S|壁S
+Wall T (Red Brick)|壁T（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall V (Red Brick)|壁V（赤レンガ）
+Wall W|壁W
+Wall X|壁X
+Wall Q|壁Q
+Wall R|壁R
+Wall S|壁S
+Wall T (Red Brick)|壁T（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall V (Red Brick)|壁V（赤レンガ）
+Wall W|壁W
+Wall X|壁X

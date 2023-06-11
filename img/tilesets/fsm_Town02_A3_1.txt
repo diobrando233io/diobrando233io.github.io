@@ -1,0 +1,32 @@
+﻿Roof A|屋根A
+Roof B|屋根B
+Roof C|屋根C
+Roof D|屋根D
+Roof E|屋根E
+Roof F|屋根F
+Roof G|屋根G
+Roof H|屋根H
+Outer Wall A|外壁A
+Outer Wall B|外壁B
+Outer Wall C|外壁C
+Outer Wall D|外壁D
+Outer Wall E|外壁E
+Outer Wall F|外壁F
+Outer Wall G|外壁G
+Outer Wall H|外壁H
+Roof I|屋根I
+Roof J|屋根J
+Roof K|屋根K
+Roof L|屋根L
+Roof M|屋根M
+Roof N|屋根N
+Roof O|屋根O
+Roof P|屋根P
+Outer Wall I|外壁I
+Outer Wall J|外壁J
+Outer Wall K|外壁K
+Outer Wall L|外壁L
+Outer Wall M|外壁M
+Outer Wall N|外壁N
+Outer Wall O|外壁O
+Outer Wall P|外壁P

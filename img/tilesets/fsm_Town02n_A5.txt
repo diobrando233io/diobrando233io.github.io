@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Cobblestones A|石畳A
+Cobblestones B|石畳B
+Cobblestones C|石畳C
+Cobblestones D|石畳D
+Cobblestones D|石畳D
+Cobblestones E|石畳E
+Cobblestones E|石畳E
+Transparent|透明
+Cobblestones F|石畳F
+Cobblestones G|石畳G
+Cobblestones D|石畳D
+Cobblestones D|石畳D
+Cobblestones D|石畳D
+Cobblestones E|石畳E
+Cobblestones E|石畳E
+Cobblestones F|石畳F
+Road E|道E
+Road B|道B
+Cobblestones G|石畳G
+Road F|道F
+Cobblestones H|石畳H
+Cobblestones E|石畳E
+Cobblestones E|石畳E
+Ledge A (Meadow A)|段差A（草地A）
+Meadow A|草地A
+Ledge A (Meadow A)|段差A（草地A）
+Ledge A (Meadow A)|段差A（草地A）
+Ledge A (Meadow A)|段差A（草地A）
+Ledge C (Road)|段差C（道）
+Ledge C (Road)|段差C（道）
+Ledge C (Road)|段差C（道）
+Ledge A (Meadow A)|段差A（草地A）
+Ledge A (Meadow A)|段差A（草地A）
+Ledge A (Meadow A)|段差A（草地A）
+Ledge A (Meadow A)|段差A（草地A）
+Ledge A (Meadow A)|段差A（草地A）
+Ledge C (Road)|段差C（道）
+Cobblestones I|石畳I
+Ledge C (Road)|段差C（道）
+Cliff|崖
+Cliff|崖
+Cliff|崖
+Ledge A (Meadow A, Shadow)|段差A（草地A・影）
+Ledge A (Meadow A, Shadow)|段差A（草地A・影）
+Ledge C (Road)|段差C（道）
+Ledge C (Road)|段差C（道）
+Ledge C (Road)|段差C（道）
+Cliff (Meadow A)|崖（草地A）
+Cliff (Meadow A)|崖（草地A）
+Cliff (Meadow A)|崖（草地A）
+Ledge C (Road)|段差C（道）
+Ledge C (Road)|段差C（道）
+Wall P (Ledge C)|壁P（段差C）
+Wall P (Ledge C)|壁P（段差C）
+Wall P (Ledge C)|壁P（段差C）
+Ledge A (Meadow A, Stairs, Left)|段差A（草地A・階段・左）
+Ledge A (Meadow A, Stairs, Right)|段差A（草地A・階段・右）
+Ledge A (Meadow A, Stairs)|段差A（草地A・階段）
+Ledge C (Road)|段差C（道）
+Ledge C (Road)|段差C（道）
+Wall P (Ledge C)|壁P（段差C）
+Wall P (Ledge C)|壁P（段差C）
+Wall P (Ledge C)|壁P（段差C）
+Stairs (Meadow A, Left)|階段（草地A・左）
+Stairs (Meadow A, Right)|階段（草地A・右）
+Ledge A (Meadow A, Stairs)|段差A（草地A・階段）
+Ledge A (Meadow A, Stairs)|段差A（草地A・階段）
+Ledge A (Meadow A, Stairs)|段差A（草地A・階段）
+Wall P (Ledge C)|壁P（段差C）
+Wall P (Ledge C)|壁P（段差C）
+Wall P (Ledge C)|壁P（段差C）
+Stairs (Meadow A, Left)|階段（草地A・左）
+Stairs (Meadow A, Right)|階段（草地A・右）
+Ledge A (Meadow A, Stairs)|段差A（草地A・階段）
+Stairs (Meadow A)|階段（草地A）
+Ledge A (Meadow A, Stairs)|段差A（草地A・階段）
+Wall P (Ledge C)|壁P（段差C）
+Wall P (Ledge C)|壁P（段差C）
+Wall P (Ledge C)|壁P（段差C）
+Stairs (Meadow A, Left)|階段（草地A・左）
+Stairs (Meadow A, Right)|階段（草地A・右）
+Stairs (Meadow A)|階段（草地A）
+Stairs (Meadow A)|階段（草地A）
+Stairs (Meadow A)|階段（草地A）
+Wall P (Ledge C, Moss)|壁P（段差C・苔）
+Wall P (Ledge C, Moss)|壁P（段差C・苔）
+Wall P (Ledge C, Moss)|壁P（段差C・苔）
+Stairs (Meadow A, Left)|階段（草地A・左）
+Stairs (Meadow A, Right)|階段（草地A・右）
+Cobblestones J|石畳J
+Stone Floor (Wall I, Wall K)|石床（壁I・壁K）
+Wood Floor (Wood Deck)|木の床（ウッドデッキ）
+Wall P (Ledge C, Moss)|壁P（段差C・苔）
+Wall P (Ledge C, Moss)|壁P（段差C・苔）
+Wall P (Ledge C, Moss)|壁P（段差C・苔）
+Bright Meadow|明るい草地
+Bright Meadow|明るい草地
+Deep Meadow|濃い草地
+Deep Meadow|濃い草地
+Dirt (Meadow A)|土（草地A）
+Dirt (Meadow A)|土（草地A）
+Road A (Meadow A)|道A（草地A）
+Road A (Meadow A)|道A（草地A）
+Bright Meadow|明るい草地
+Bright Meadow|明るい草地
+Deep Meadow|濃い草地
+Deep Meadow|濃い草地
+Dirt (Meadow A)|土（草地A）
+Dirt (Meadow A)|土（草地A）
+Road A (Meadow A)|道A（草地A）
+Road A (Meadow A)|道A（草地A）
+Meadow B|草地B
+Meadow B|草地B
+Bush B (Meadow A)|茂みB（草地A）
+Bush B (Meadow A)|茂みB（草地A）
+Bush C (Meadow A)|茂みC（草地A）
+Bush C (Meadow A)|茂みC（草地A）
+Flower Zone B (Meadow A)|花畑B（草地A）
+Flower Zone B (Meadow A)|花畑B（草地A）
+Meadow B|草地B
+Meadow B|草地B
+Bush B (Meadow A)|茂みB（草地A）
+Bush B (Meadow A)|茂みB（草地A）
+Bush C (Meadow A)|茂みC（草地A）
+Bush C (Meadow A)|茂みC（草地A）
+Flower Zone B (Meadow A)|花畑B（草地A）
+Flower Zone B (Meadow A)|花畑B（草地A）

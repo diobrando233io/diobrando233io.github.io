@@ -1,0 +1,256 @@
+﻿Barrel|樽
+Crate A|木箱A
+Baggage A|荷物A
+Baggage B|荷物B
+Baggage B|荷物B
+Baggage C|荷物C
+Baggage D1|荷物D1
+Baggage D2|荷物D2
+Pot A|壺A
+Pot B|壺B
+Pot C|壺C
+Baggage B|荷物B
+Baggage B|荷物B
+Baggage C|荷物C
+Baggage D1|荷物D1
+Baggage D2|荷物D2
+Tent A (Stall)|テントA（屋台）
+Tent A (Stall)|テントA（屋台）
+Tent B (Stall)|テントB（屋台）
+Tent B (Stall)|テントB（屋台）
+Tent C (Stall)|テントC（屋台）
+Tent C (Stall)|テントC（屋台）
+Tent C (Stall)|テントC（屋台）
+Table (V, Stall)|屋台のテーブル（縦）
+Tent A (Stall)|テントA（屋台）
+Tent A (Stall)|テントA（屋台）
+Tent B (Stall)|テントB（屋台）
+Tent B (Stall)|テントB（屋台）
+Tent C (Stall)|テントC（屋台）
+Tent C (Stall)|テントC（屋台）
+Tent C (Stall)|テントC（屋台）
+Table (V, Stall)|屋台のテーブル（縦）
+Tent A (Stall)|テントA（屋台）
+Tent A (Stall)|テントA（屋台）
+Tent B (Stall)|テントB（屋台）
+Tent B (Stall)|テントB（屋台）
+Tent C (Stall)|テントC（屋台）
+Tent C (Stall)|テントC（屋台）
+Tent C (Stall)|テントC（屋台）
+Table (V, Stall)|屋台のテーブル（縦）
+Tent A (Stall)|テントA（屋台）
+Tent A (Stall)|テントA（屋台）
+Tent B (Stall)|テントB（屋台）
+Tent B (Stall)|テントB（屋台）
+Tent C (Stall)|テントC（屋台）
+Tent C (Stall)|テントC（屋台）
+Tent C (Stall)|テントC（屋台）
+Table (V, Stall)|屋台のテーブル（縦）
+Stall|露店
+Stall|露店
+Stall|露店
+Table (H, Stall)|屋台のテーブル（横）
+Table (H, Stall)|屋台のテーブル（横）
+Table (H, Stall)|屋台のテーブル（横）
+Table (H, Stall)|屋台のテーブル（横）
+Table (Stall)|屋台のテーブル
+Stall|露店
+Stall|露店
+Stall|露店
+Crate B|木箱B
+Crate C|木箱C
+Crate F|木箱F
+Crate G|木箱G
+Table (H, Stall)|屋台のテーブル（横）
+Stall|露店
+Stall|露店
+Stall|露店
+Crate D|木箱D
+Crate E|木箱E
+Crate H|木箱H
+Crate I|木箱I
+Display Shelf A|陳列棚A
+Stall|露店
+Stall|露店
+Stall|露店
+Crates J (Top A)|木箱J（上A）
+Crates J (Top B)|木箱J（上B）
+Basket A|カゴA
+Basket B|カゴB
+Display Shelf B|陳列棚B
+Garden Parasol|ガーデンパラソル
+Garden Parasol|ガーデンパラソル
+Dry Foodstuff|干し食材
+Crates J (Bottom A)|木箱J（下A）
+Crates J (Bottom B)|木箱J（下B）
+Colanders|ザル
+Small Boxes|小箱
+Display Shelf B|陳列棚B
+Garden Parasol|ガーデンパラソル
+Garden Parasol|ガーデンパラソル
+Garden Table (Top A)|ガーデンテーブル（上A）
+Garden Table (Top A)|ガーデンテーブル（上A）
+Garden Table (Top B)|ガーデンテーブル（上B）
+Garden Table (Top B)|ガーデンテーブル（上B）
+Chalkboard Signboard|黒板型看板
+Bottle Case A|ボトル箱A
+Garden Parasol|ガーデンパラソル
+Garden Parasol|ガーデンパラソル
+Garden Table (Bottom A)|ガーデンテーブル（下A）
+Garden Table (Bottom A)|ガーデンテーブル（下A）
+Garden Table (Bottom B)|ガーデンテーブル（下B）
+Garden Table (Bottom B)|ガーデンテーブル（下B）
+Garden Stool|椅子（ガーデンテーブル）
+Bottle Case B|ボトル箱B
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck, Slip Through)|柵（ウッドデッキ・すり抜け）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Wood Floor (Wood Deck)|木の床（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Wood Floor (Wood Deck)|木の床（ウッドデッキ）
+Wood Floor (Wood Deck)|木の床（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Wood Floor (Wood Deck)|木の床（ウッドデッキ）
+Wood Floor (Wood Deck)|木の床（ウッドデッキ）
+Wood Floor (Wood Deck)|木の床（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Wood Deck|ウッドデッキ
+Fence (Wood Deck, Shadow)|柵（ウッドデッキ・影）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Wood Floor (Wood Deck, Shadow)|木の床（ウッドデッキ・影）
+Wood Deck|ウッドデッキ
+Wood Deck|ウッドデッキ
+Shadow (Wood Deck)|ウッドデッキの影
+Wood Deck|ウッドデッキ
+Wood Deck|ウッドデッキ
+Wood Deck|ウッドデッキ
+Wood Deck|ウッドデッキ
+Wood Floor (Wood Deck, Shadow)|木の床（ウッドデッキ・影）
+Fence (Wood Deck, Stairs A)|柵（ウッドデッキの階段A）
+Fence (Wood Deck, Stairs A)|柵（ウッドデッキの階段A）
+Fence (Wood Deck, Stairs A)|柵（ウッドデッキの階段A）
+Fence (Wood Deck, Stairs A)|柵（ウッドデッキの階段A）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Banister (Wood Deck, Stairs A)|手すり（ウッドデッキの階段A）
+|
+Banister (Wood Deck, Stairs A)|手すり（ウッドデッキの階段A）
+Banister (Wood Deck, Stairs B)|手すり（ウッドデッキの階段B）
+Wood Floor (Wood Deck, Shadow)|木の床（ウッドデッキ・影）
+Wood Floor (Wood Deck, Shadow)|木の床（ウッドデッキ・影）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs B (Wood Deck)|ウッドデッキの階段B
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs B (Wood Deck)|ウッドデッキの階段B
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs A (Wood Deck)|ウッドデッキの階段A
+Stairs B (Wood Deck)|ウッドデッキの階段B
+Fence (Wood Deck)|柵（ウッドデッキ）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Stairs A (Wood Deck, Shadow)|ウッドデッキの階段A（影）
+Fence (Wood Deck)|柵（ウッドデッキ）
+Horses A|馬A
+Horses A|馬A
+Horses B|馬B
+Horses B|馬B
+Carriage A|馬車A
+Carriage A|馬車A
+Carriage B|馬車B
+Carriage B|馬車B
+Horses A|馬A
+Horses A|馬A
+Horses B|馬B
+Horses B|馬B
+Carriage A|馬車A
+Carriage A|馬車A
+Carriage B|馬車B
+Carriage B|馬車B
+Well|井戸
+Well|井戸
+Carriage C|馬車C
+Carriage C|馬車C
+Carriage C|馬車C
+Coachman Table A|馭者台A
+Carriage D|馬車D
+Carriage D|馬車D
+Well|井戸
+Well|井戸
+Carriage C|馬車C
+Carriage C|馬車C
+Carriage C|馬車C
+Coachman Table B|馭者台B
+Carriage D|馬車D
+Carriage D|馬車D
+Well|井戸
+Well|井戸
+Carriage C|馬車C
+Carriage C|馬車C
+Carriage C|馬車C
+Coachman Table B|馭者台B
+Carriage D|馬車D
+Carriage D|馬車D
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Coachman Table A|馭者台A
+Pedestal A|台座A
+Pedestal (Top A)|台座（上A）
+Pedestal A|台座A
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Manhole A|マンホールA
+Pedestal A|台座A
+Pedestal (Bottom A)|台座（下A）
+Pedestal A|台座A
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Fountain|噴水
+Manhole B|マンホールB
+Pedestal B|台座B
+Pedestal (Top B)|台座（上B）
+Pedestal B|台座B
+Drain (Top)|排水口（上）
+Drain (Left)|排水口（左）
+Drain (Bottom)|排水口（下）
+Drain (Right)|排水口（右）
+Manhole C|マンホールC
+Pedestal B|台座B
+Pedestal (Bottom B)|台座（下B）
+Pedestal B|台座B

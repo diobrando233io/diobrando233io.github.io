@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Wood Floor A|木の床A
+Stone Floor A|石床A
+Brick Floor|レンガの床
+Rug E|じゅうたんE
+Wood Floor B|木の床B
+Marble Floor A|大理石の床A
+Marble Floor B|大理石の床B
+Transparent|透明
+Wood Floor C|木の床C
+Stone Floor B|石床B
+Stone Floor G|石床G
+Rug B|じゅうたんB
+Wood Floor B|木の床B
+Marble Floor A|大理石の床A
+Marble Floor B|大理石の床B
+Wood Floor C|木の床C
+Wood Floor C|木の床C
+Stone Floor H|石床H
+Stone Floor I|石床I
+Rug D|じゅうたんD
+Wood Floor B|木の床B
+Marble Floor A|大理石の床A
+Marble Floor B|大理石の床B
+Wood Floor D|木の床D
+Wood Floor E|木の床E
+Stone Floor J|石床J
+Stone Floor J|石床J
+Rug F|じゅうたんF
+Stone Floor C|石床C
+Stone Floor C|石床C
+Stone Floor C|石床C
+Ledge A (Stone A, Center, Shadow)|段差A（石A・中央・影）
+Ledge A (Stone A, Left)|段差A（石A・左）
+Ledge A (Stone A, Center)|段差A（石A・中央）
+Ledge A (Stone A, Right)|段差A（石A・右）
+Stairs A (Wood, Left)|階段A（木製・左）
+Stairs A (Wood, Center)|階段A（木製・中央）
+Stairs A (Wood, Right)|階段A（木製・右）
+Stairs B (Wood)|階段B（木製）
+Ledge B (Brick, Center, Shadow)|段差B（レンガ・中央・影）
+Ledge B (Brick, Left)|段差B（レンガ・左）
+Ledge B (Brick, Center)|段差B（レンガ・中央）
+Ledge B (Brick, Right)|段差B（レンガ・右）
+Ledge (Stone Floor F, Passable Downward)|段差（石床F・下方向通行可能）
+Wall Y (Red Brick)|壁Y（赤レンガ）
+Wall Y (Red Brick)|壁Y（赤レンガ）
+Wall Y (Red Brick)|壁Y（赤レンガ）
+Ledge C (Stone B, Center, Shadow)|段差C（石B・中央・影）
+Ledge C (Stone B, Left)|段差C（石B・左）
+Ledge C (Stone B, Center)|段差C（石B・中央）
+Ledge C (Stone B, Right)|段差C（石B・右）
+Ledge (Stone Floor F, Passable Downward)|段差（石床F・下方向通行可能）
+Wall Y (Red Brick)|壁Y（赤レンガ）
+Wall Y (Red Brick)|壁Y（赤レンガ）
+Wall Y (Red Brick)|壁Y（赤レンガ）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Stone Floor F|石床F
+Stone Floor F|石床F
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Ledge (Stone Floor F)|段差（石床F）
+Stone Floor F|石床F
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Throne A|玉座A
+Throne A|玉座A
+Throne A|玉座A
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Throne B|玉座B
+Throne B|玉座B
+Throne B|玉座B
+Throne A|玉座A
+Throne A|玉座A
+Throne A|玉座A
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Throne B (Curtain A)|玉座B（帳A）
+Throne B|玉座B
+Throne B (Curtain A)|玉座B（帳A）
+Throne A|玉座A
+Throne A|玉座A
+Throne A|玉座A
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Throne B (Curtain A)|玉座B（帳A）
+Throne B|玉座B
+Throne B (Curtain A)|玉座B（帳A）
+Throne A|玉座A
+Throne A|玉座A
+Throne A|玉座A
+Throne B (Curtain B)|玉座B（帳B）
+Throne B (Curtain B)|玉座B（帳B）
+Throne B (Curtain A)|玉座B（帳A）
+Throne B|玉座B
+Throne B (Curtain A)|玉座B（帳A）
+Throne A|玉座A
+Throne A|玉座A
+Throne A|玉座A
+Throne B (Curtain B)|玉座B（帳B）
+Throne B (Curtain B)|玉座B（帳B）
+Throne B|玉座B
+Throne B|玉座B
+Throne B|玉座B
+Throne A|玉座A
+Throne A|玉座A
+Throne A|玉座A
+Throne B (Curtain B)|玉座B（帳B）
+Throne B (Curtain B)|玉座B（帳B）
+Throne B|玉座B
+Throne B|玉座B
+Throne B|玉座B

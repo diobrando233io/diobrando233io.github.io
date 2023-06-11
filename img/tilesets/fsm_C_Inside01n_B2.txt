@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Reflection to the floor (Common A)|床への映り込み（汎用A）
+Reflection to the floor (Common B)|床への映り込み（汎用B）
+Reflection to the floor (Common C)|床への映り込み（汎用C）
+Reflection to the floor (Common D)|床への映り込み（汎用D）
+Floor Light A|床の光A
+Floor Light B|床の光B
+Glittering Light|キラキラな光
+Window A|窓A
+Window B|窓B
+Window B|窓B
+Window C|窓C
+Window A (Dark)|窓A（暗闇）
+Window B (Dark)|窓B（暗闇）
+Window B (Dark)|窓B（暗闇）
+Window C (Dark)|窓C（暗闇）
+Window A|窓A
+Window B|窓B
+Window B|窓B
+Window C|窓C
+Window A (Dark)|窓A（暗闇）
+Window B (Dark)|窓B（暗闇）
+Window B (Dark)|窓B（暗闇）
+Window C (Dark)|窓C（暗闇）
+Window Light A (Window A, C)|窓の光A（窓A・窓C）
+Window Light B (Window B)|窓の光B（窓B）
+Window Light B (Window B)|窓の光B（窓B）
+Window D|窓D
+Window D (Dark)|窓D（暗闇）
+Curtain C (Yellow)|カーテンC（黄色）
+Curtain C (Yellow)|カーテンC（黄色）
+Curtain C (Yellow)|カーテンC（黄色）
+Curtain A|カーテンA
+Curtain C (Yellow)|カーテンC（黄色）
+Curtain C (Red)|カーテンC（赤）
+Window D|窓D
+Window D (Dark)|窓D（暗闇）
+Curtain C (Yellow)|カーテンC（黄色）
+Curtain C (Yellow)|カーテンC（黄色）
+Curtain C (Yellow)|カーテンC（黄色）
+Curtain A|カーテンA
+Curtain C (Yellow)|カーテンC（黄色）
+Curtain C (Red)|カーテンC（赤）
+Reflection to the floor (Window D)|床への映り込み（窓D）
+Reflection to the floor (Window D, Dark)|床への映り込み（窓D・暗闇）
+Reflection to the floor (Curtain C, Yellow)|床への映り込み（カーテンC・黄色）
+Reflection to the floor (Curtain C, Yellow)|床への映り込み（カーテンC・黄色）
+Reflection to the floor (Curtain C, Yellow)|床への映り込み（カーテンC・黄色）
+Curtain B|カーテンB
+Reflection to the floor (Curtain C, Yellow)|床への映り込み（カーテンC・黄色）
+Reflection to the floor (Curtain C, Red)|床への映り込み（カーテンC・赤）
+Window Light C (Window D)|窓の光C（窓D）
+Window E|窓E
+Curtain C (Red)|カーテンC（赤）
+Curtain C (Red)|カーテンC（赤）
+Curtain C (Red)|カーテンC（赤）
+Wall Detail (Extension)|壁装飾（延長用）
+Wall Detail|壁装飾
+Wall Detail (Left, Extension)|壁装飾（左・延長用）
+Window Light C (Window D)|窓の光C（窓D）
+Window E (Dark)|窓E（暗闇）
+Curtain C (Red)|カーテンC（赤）
+Curtain C (Red)|カーテンC（赤）
+Curtain C (Red)|カーテンC（赤）
+Wall Detail (Right)|壁装飾（右）
+Wall Detail|壁装飾
+Wall Detail (Left)|壁装飾（左）
+Shadow (Can Walk)|影（通行可能）
+Wall B (Can Walk)|壁B（通行可能）
+Reflection to the floor (Curtain C, Red)|床への映り込み（カーテンC・赤）
+Reflection to the floor (Curtain C, Red)|床への映り込み（カーテンC・赤）
+Reflection to the floor (Curtain C, Red)|床への映り込み（カーテンC・赤）
+Wall Detail (Right)|壁装飾（右）
+Wall Detail|壁装飾
+Wall Detail (Left)|壁装飾（左）
+Gate (Wall B)|ゲート（壁B）
+Gate (Wall B)|ゲート（壁B）
+Gate (Wall B)|ゲート（壁B）
+Wall B|壁B
+Shadow (Cannot Walk)|影（通行不可）
+Wall Detail (Right)|壁装飾（右）
+Wall Detail (Right, Extension)|壁装飾（右・延長用）
+Wall Detail (Left)|壁装飾（左）
+Gate (Wall B)|ゲート（壁B）
+Gate (Wall B)|ゲート（壁B）
+Gate (Wall B)|ゲート（壁B）
+Wall B|壁B
+Shadow (Cannot Walk)|影（通行不可）
+Wall Detail (Right, Reflection to the floor)|壁装飾（右・床映り込み）
+Wall Detail (Reflection to the floor)|壁装飾（床映り込み）
+Wall Detail (Left, Reflection to the floor)|壁装飾（左・床映り込み）
+Reflection to the floor (Gate)|床への映り込み（ゲート）
+|
+Reflection to the floor (Gate)|床への映り込み（ゲート）
+Reflection to the floor (Wall B)|床への映り込み（壁B）
+Shadow (Cannot Walk)|影（通行不可）
+Wall Detail (Right, Reflection to the floor)|壁装飾（右・床映り込み）
+Exit (Top Half B)|出口（上半分B）
+Wall Detail (Left, Reflection to the floor)|壁装飾（左・床映り込み）
+Stairs C (Stone, Left)|階段C（石・左）
+Stairs C (Stone, Center)|階段C（石・中央）
+Stairs C (Stone, Right)|階段C（石・右）
+Stairs D (Stone)|階段D（石）
+Shadow (Can Walk)|影（通行可能）
+Exit (Top Half A)|出口（上半分A）
+Entrance A (Top Half B)|入口A（上半分B）
+Entrance B (Top Half B)|入口B（上半分B）
+Entrance B (Top Half B)|入口B（上半分B）
+Entrance B (Top Half B)|入口B（上半分B）
+Large Stairs A (Down)|大階段A（下り）
+Large Stairs A (Down)|大階段A（下り）
+Large Stairs A (Down)|大階段A（下り）
+Exit|出口
+Entrance A (Top Half A)|入口A（上半分A）
+Entrance B (Top Half A)|入口B（上半分A）
+Entrance B (Top Half A)|入口B（上半分A）
+Entrance B (Top Half A)|入口B（上半分A）
+Large Stairs A (Down)|大階段A（下り）
+Large Stairs A (Down)|大階段A（下り）
+Large Stairs A (Down)|大階段A（下り）
+Exit Light|出口の光
+Entrance A|入口A
+Entrance B|入口B
+Entrance B|入口B
+Entrance B|入口B
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Diagonal Stairs (Left)|斜め階段（左）
+|
+|
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Left, Shadow)|斜め階段（左・影）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Left, Shadow)|斜め階段（左・影）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Large Stairs A (Up)|大階段A（上り）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Left)|斜め階段（左）
+Diagonal Stairs (Right)|斜め階段（右）
+Diagonal Stairs (Right)|斜め階段（右）
+Banister B|手すりB
+Banister B|手すりB
+Banister B|手すりB
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Shadow (Banister A)|手すりAの影
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Shadow (Can Walk)|影（通行可能）
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+|
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Shadow (Banister A)|手すりAの影
+Banister A|手すりA
+Banister A|手すりA
+Large Stairs B (Up)|大階段B（上り）
+Large Stairs B (Up)|大階段B（上り）
+Large Stairs B (Up)|大階段B（上り）
+Banister A|手すりA
+Banister A|手すりA
+Shadow (Banister A)|手すりAの影
+Banister A|手すりA
+Banister A|手すりA
+Large Stairs B (Up)|大階段B（上り）
+Large Stairs B (Up)|大階段B（上り）
+Large Stairs B (Up)|大階段B（上り）
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Banister A|手すりA
+Large Stairs B (Down)|大階段B（下り）
+|
+Large Stairs B (Down)|大階段B（下り）
+Stairs|階段
+Large Stairs C (Down, Left)|大階段C（下り・左向き）
+Large Stairs C (Down, Left)|大階段C（下り・左向き）
+Large Stairs C (Down, Right)|大階段C（下り・右向き）
+Large Stairs C (Down, Right)|大階段C（下り・右向き）
+Large Stairs B (Down)|大階段B（下り）
+Large Stairs B (Down)|大階段B（下り）
+Large Stairs B (Down)|大階段B（下り）
+Stairs|階段
+Large Stairs C (Down, Left)|大階段C（下り・左向き）
+Large Stairs C (Down, Left)|大階段C（下り・左向き）
+Large Stairs C (Down, Right)|大階段C（下り・右向き）
+Large Stairs C (Down, Right)|大階段C（下り・右向き）
+Large Stairs B (Down)|大階段B（下り）
+Large Stairs B (Down)|大階段B（下り）
+Large Stairs B (Down)|大階段B（下り）
+Ladder (Up)|はしご（上り）
+Large Stairs C (Down, Left)|大階段C（下り・左向き）
+Large Stairs C (Down, Left)|大階段C（下り・左向き）
+Large Stairs C (Down, Right)|大階段C（下り・右向き）
+Large Stairs C (Down, Right)|大階段C（下り・右向き）
+Large Stairs C (Down, Left)|大階段C（下り・左向き）
+Large Stairs C (Down, Right)|大階段C（下り・右向き）
+Stairs (Down)|階段（下り）
+Ladder (Down)|はしご（下り）
+|
+Large Stairs C (Up, Right)|大階段C（上り・右向き）
+Large Stairs C (Up, Right)|大階段C（上り・右向き）
+Large Stairs C (Up, Left)|大階段C（上り・左向き）
+Large Stairs C (Up, Left)|大階段C（上り・左向き）
+|
+Stairs (Up)|階段（上り）
+Ladder|はしご
+Large Stairs C (Up, Right)|大階段C（上り・右向き）
+Large Stairs C (Up, Right)|大階段C（上り・右向き）
+Large Stairs C (Up, Right)|大階段C（上り・右向き）
+Large Stairs C (Up, Left)|大階段C（上り・左向き）
+Large Stairs C (Up, Left)|大階段C（上り・左向き）
+Large Stairs C (Up, Left)|大階段C（上り・左向き）
+Stairs (Up)|階段（上り）
+Ladder|はしご
+Large Stairs C (Up, Right)|大階段C（上り・右向き）
+Large Stairs C (Up, Right)|大階段C（上り・右向き）
+Large Stairs C (Up, Right)|大階段C（上り・右向き）
+Large Stairs C (Up, Left)|大階段C（上り・左向き）
+Large Stairs C (Up, Left)|大階段C（上り・左向き）
+Large Stairs C (Up, Left)|大階段C（上り・左向き）
+Stairs (Up)|階段（上り）
+Ladder|はしご

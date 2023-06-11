@@ -1,0 +1,32 @@
+﻿Wood Floor A|木の床A
+Stone Floor A|石床A
+Brick Floor|レンガの床
+Rug A|じゅうたんA
+Raised Stone A (Stone Floor A)|石段A（石床A）
+Raised Stone B (Stone Floor B)|石段B（石床B）
+Table I|テーブルI
+Table B|テーブルB
+Wood Floor B|木の床B
+Marble Floor A|大理石の床A
+Marble Floor B|大理石の床B
+Rug B|じゅうたんB
+Curb A|縁石A
+Rug C|じゅうたんC
+Table C|テーブルC
+Table D|テーブルD
+Wood Floor C|木の床C
+Stone Floor B|石床B
+Gold Floor|金の床
+Canal (Red Brick, No Water)|水路（赤レンガ・水なし）
+Hole A|穴A
+Hole B|穴B
+Table E|テーブルE
+Table F|テーブルF
+Stone Floor C|石床C
+Stone Floor D|石床D
+Stone Floor E|石床E
+Stone Floor F|石床F
+Curb B|縁石B
+Step|段差
+Table G|テーブルG
+Table H|テーブルH

@@ -1,0 +1,256 @@
+﻿Counter (H)|カウンターテーブル（横）
+Counter (H)|カウンターテーブル（横）
+Counter (H)|カウンターテーブル（横）
+Counter (V)|カウンターテーブル（縦）
+Flip Up Countertop (V)|跳ね上げカウンター（縦）
+Counter Detail|カウンターテーブル装飾
+Counter Detail|カウンターテーブル装飾
+Counter Detail|カウンターテーブル装飾
+Counter (H)|カウンターテーブル（横）
+Counter (H)|カウンターテーブル（横）
+Counter (H)|カウンターテーブル（横）
+Counter (V)|カウンターテーブル（縦）
+Counter (V)|カウンターテーブル（縦）
+Counter Detail|カウンターテーブル装飾
+Counter (H)|カウンターテーブル（横）
+Counter Detail|カウンターテーブル装飾
+Counter (H)|カウンターテーブル（横）
+Counter (H)|カウンターテーブル（横）
+Counter (H)|カウンターテーブル（横）
+Counter (V)|カウンターテーブル（縦）
+Tablecloth (Counter, V)|テーブルクロス（カウンター・縦）
+Counter Detail|カウンターテーブル装飾
+Counter (H)|カウンターテーブル（横）
+Counter Detail|カウンターテーブル装飾
+Counter (H)|カウンターテーブル（横）
+Counter (H)|カウンターテーブル（横）
+Counter (H)|カウンターテーブル（横）
+Counter (V)|カウンターテーブル（縦）
+Tablecloth (Counter, V)|テーブルクロス（カウンター・縦）
+Counter Detail|カウンターテーブル装飾
+Counter (H)|カウンターテーブル（横）
+Counter Detail|カウンターテーブル装飾
+Tablecloth (Counter, H)|テーブルクロス（カウンター・横）
+Tablecloth (Counter, H)|テーブルクロス（カウンター・横）
+Tablecloth (Counter, H)|テーブルクロス（カウンター・横）
+Flip Up Countertop (H)|跳ね上げカウンター（横）
+Counter Signboard (Item Shop)|カウンター用看板（道具屋）
+Counter Signboard (Weapon Shop)|カウンター用看板（武器屋）
+Counter Signboard (Armor Shop)|カウンター用看板（防具屋）
+Counter Signboard (Pharmacy)|カウンター用看板（薬屋）
+Tablecloth (Counter, H)|テーブルクロス（カウンター・横）
+Tablecloth (Counter, H)|テーブルクロス（カウンター・横）
+Tablecloth (Counter, H)|テーブルクロス（カウンター・横）
+Flip Up Countertop (H)|跳ね上げカウンター（横）
+Counter Signboard (Restaurant)|カウンター用看板（レストラン）
+Counter Signboard (Blacksmith Guild)|カウンター用看板（鍛冶ギルド）
+Counter Signboard (Magic Shop)|カウンター用看板（魔法屋）
+Counter Signboard (Inn)|カウンター用看板（宿屋）
+Notes & Pen (Bottom)|メモとペン（下）
+Notes & Pen (Right)|メモとペン（右）
+Notes & Pen (Left)|メモとペン（左）
+Notes & Pen (Top)|メモとペン（上）
+Counter Signboard (Plain)|カウンター用看板（無地）
+Counter Signboard (Sewing Guild)|カウンター用看板（裁縫ギルド）
+Counter Signboard (Bookstore)|カウンター用看板（本屋）
+Counter Signboard (Pub)|カウンター用看板（酒場）
+Goods A (Counter)|カウンター用商品A
+Goods B (Counter)|カウンター用商品B
+Goods C (Counter)|カウンター用商品C
+Goods D (Counter)|カウンター用商品D
+Goods E (Counter)|カウンター用商品E
+Goods F (Counter)|カウンター用商品F
+Drink Server|ドリンクサーバー
+Bottle and Cuisine|ボトルと料理
+Goods A (Counter)|カウンター用商品A
+Goods B (Counter)|カウンター用商品B
+Goods C (Counter)|カウンター用商品C
+Goods D (Counter)|カウンター用商品D
+Goods E (Counter)|カウンター用商品E
+Goods F (Counter)|カウンター用商品F
+Drink Server|ドリンクサーバー
+Bottle and Cuisine|ボトルと料理
+Furniture C (Top A)|家具C（上A）
+Furniture C (Top A)|家具C（上A）
+Furniture C (Top B)|家具C（上B）
+Furniture C (Top B)|家具C（上B）
+Furniture C (Top C)|家具C（上C）
+Furniture C (Top C)|家具C（上C）
+Furniture C (Top D)|家具C（上D）
+Furniture C (Top D)|家具C（上D）
+Furniture C (Center A)|家具C（中央A）
+Furniture C (Center A)|家具C（中央A）
+Furniture C (Center B)|家具C（中央B）
+Furniture C (Center B)|家具C（中央B）
+Furniture C (Center C)|家具C（中央C）
+Furniture C (Center C)|家具C（中央C）
+Furniture C (Center D)|家具C（中央D）
+Furniture C (Center D)|家具C（中央D）
+Furniture C (Bottom A)|家具C（下A）
+Furniture C (Bottom A)|家具C（下A）
+Furniture C (Bottom B)|家具C（下B）
+Furniture C (Bottom B)|家具C（下B）
+Furniture C (Bottom C)|家具C（下C）
+Furniture C (Bottom C)|家具C（下C）
+Furniture C (Bottom D)|家具C（下D）
+Furniture C (Bottom D)|家具C（下D）
+Cloth Storage Shelf|生地収納棚
+Cloth Storage Shelf|生地収納棚
+Furniture D (Top Board A)|家具D（天板A）
+Furniture D (Closet)|家具D（クローゼット）
+Furniture D (Chest of Drawers)|家具D（タンス）
+Furniture D (Bottle Shelf)|家具D（ボトル棚）
+Furniture C (Center E)|家具C（中央E）
+Furniture C (Center E)|家具C（中央E）
+Cloth Storage Shelf|生地収納棚
+Cloth Storage Shelf|生地収納棚
+Furniture D (Backward)|家具D（後ろ向き）
+Furniture D (Closet)|家具D（クローゼット）
+Furniture D (Chest of Drawers)|家具D（タンス）
+Furniture D (Bottle Shelf)|家具D（ボトル棚）
+Furniture C (Center F)|家具C（中央F）
+Furniture C (Center F)|家具C（中央F）
+Celestial Globe|天球儀
+Broom and Dustpan|ほうきとちりとり
+Furniture D (Backward)|家具D（後ろ向き）
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Sewing Workbench|裁縫作業台
+Sewing Workbench|裁縫作業台
+Bottle Case|ボトル箱
+Broom and Dustpan|ほうきとちりとり
+Furniture D (Top Board B)|家具D（天板B）
+Piano|ピアノ
+Piano|ピアノ
+Piano|ピアノ
+Sewing Workbench|裁縫作業台
+Sewing Workbench|裁縫作業台
+Basket A|カゴA
+Basket C|カゴC
+Mannequin A|マネキンA
+Mannequin B|マネキンB
+Mannequin C|マネキンC
+Spinning Wheel|糸車
+Weaving Machine|機織り機
+Stepladder|脚立
+Basket B|カゴB
+Basket C|カゴC
+Mannequin A|マネキンA
+Mannequin B|マネキンB
+Mannequin C|マネキンC
+Hanger A|ハンガーA
+Hanger B (Cloth)|ハンガーB（布）
+Stepladder|脚立
+Spears|槍
+Weapons Stand|武器スタンド
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Crate D|木箱D
+Crate E|木箱E
+Crate H|木箱H
+Crate I|木箱I
+Spears|槍
+Weapons Stand|武器スタンド
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Crate F|木箱F
+Crate G|木箱G
+Crate J|木箱J
+Crate K|木箱K
+Daggers|短剣
+Weapons Stand|武器スタンド
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Crates L (Top A)|木箱L（上A）
+Crates L (Top B)|木箱L（上B）
+Basket D|カゴD
+Basket E|カゴE
+Axe A|斧A
+Axe B|斧B
+Spears (Wall Hanging)|槍（壁掛け）
+Spears (Wall Hanging)|槍（壁掛け）
+Crates L (Bottom A)|木箱L（下A）
+Crates L (Bottom B)|木箱L（下B）
+Colanders|ザル
+Small Boxes|小箱
+Axes C|斧C
+Axes D|斧D
+Swords A|剣A
+Swords B|剣B
+Stacked Barrel|積まれた樽
+Stacked Barrel|積まれた樽
+Dry Foodstuff|干し食材
+Chalkboard Signboard|黒板型看板
+Axe E|斧E
+Shield A|盾A
+Shields B|盾B
+Shields C|盾C
+Stacked Barrel|積まれた樽
+Stacked Barrel|積まれた樽
+Notice Board|掲示板
+Notice Board|掲示板
+Axe F|斧F
+Helmet|兜
+Quiver|矢筒
+Bows|弓
+Barrel C|樽C
+Big Bottle|大きな瓶
+Notice Board|掲示板
+Notice Board|掲示板
+Arrow and Arrowhead|矢と矢尻
+Store Shelf (V, Right)|商品棚（縦・右向き）
+Store Shelf (V, Left)|商品棚（縦・左向き）
+Baggage C|荷物C
+Baggage C|荷物C
+Baggage D|荷物D
+Baggage E1|荷物E1
+Baggage E2|荷物E2
+Wand Stand A|杖スタンドA
+Store Shelf (V, Right)|商品棚（縦・右向き）
+Store Shelf (V, Left)|商品棚（縦・左向き）
+Baggage C|荷物C
+Baggage C|荷物C
+Baggage D|荷物D
+Baggage E1|荷物E1
+Baggage E2|荷物E2
+Wand Stand B|杖スタンドB
+Store Shelf|商品棚
+Store Shelf|商品棚
+Wood Work Workbench|木工作業台
+Wood Work Workbench|木工作業台
+Timber A (V)|木材A（縦）
+Timber A (H)|木材A（横）
+Timber A (H)|木材A（横）
+Wand Stand B|杖スタンドB
+Store Shelf|商品棚
+Store Shelf|商品棚
+Wood Work Workbench|木工作業台
+Wood Work Workbench|木工作業台
+Timber A (V)|木材A（縦）
+Timber B|木材B
+Timber C|木材C
+Bed B (Top A)|ベッドB（上A）
+Bed B (Top B)|ベッドB（上B）
+Books A|本A
+Books B|本B
+Stool (Desk B)|デスク用の椅子B
+Desk B|デスクB
+Desk B (Study)|デスクB（書斎）
+Desk B (Dispensing)|デスクB（調剤）
+Bed B|ベッドB
+Bed B|ベッドB
+Partition C|ついたてC
+Partition C|ついたてC
+Partition C|ついたてC
+Desk B|デスクB
+Desk B (Stool)|デスクB（椅子あり）
+Desk B (Medicine and Bandage)|デスクB（薬と包帯）
+Bed B|ベッドB
+Bed B|ベッドB
+Partition C|ついたてC
+Partition C|ついたてC
+Partition C|ついたてC
+Desk B (Scales)|デスクB（天秤）
+Desk B (Jug)|デスクB（水差し）
+Desk B (Towels and Washbowl)|デスクB（タオルと洗面器）

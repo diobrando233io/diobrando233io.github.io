@@ -1,0 +1,32 @@
+﻿Gravel Floor A|砂利床A
+Gravel Floor B|砂利床B
+Brick Floor|レンガの床
+Rug A|じゅうたんA
+Rug B|じゅうたんB
+Rug C|じゅうたんC
+Table A|テーブルA
+Table B|テーブルB
+Wood Floor A|木の床A
+Wood Floor B|木の床B
+Wood Floor C|木の床C
+Rug D|じゅうたんD
+Rug E|じゅうたんE
+Rug F|じゅうたんF
+Table C|テーブルC
+Table D|テーブルD
+Stone Floor A|石床A
+Stone Floor B|石床B
+Stone Floor C|石床C
+Rug G|じゅうたんG
+Curb A|縁石A
+Curb B|縁石B
+Table E|テーブルE
+Table F|テーブルF
+Stone Floor D|石床D
+Stone Floor E|石床E
+Stone Floor F|石床F
+Rug H|じゅうたんH
+Step A (Stone Floor E)|段差A（石床E）
+Step B|段差B
+Table G|テーブルG
+Table H|テーブルH

@@ -1,0 +1,16 @@
+﻿Canal A|水路A
+Sparkling Water Surface|きれいな水面
+Dark Water Surface|暗い水面
+Ledge (Water Bottom)|水底の段差
+Canal D|水路D
+Waterfall (Wall R)|滝（壁R）
+Canal E (Wall Q)|水路E（壁Q）
+Waterfall (Wall Q)|滝（壁Q）
+Canal B|水路B
+Waterfall (Wall W)|滝（壁W）
+Canal C|水路C
+Waterfall|滝
+Canal F (Red Brick)|水路F（赤レンガ）
+Waterfall (Red Brick)|滝（赤レンガ）
+Canal G (Red Brick)|水路G（赤レンガ）
+Waterfall (Wall P)|滝（壁P）

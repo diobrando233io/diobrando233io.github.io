@@ -1,0 +1,256 @@
+﻿Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge (H, Top Side)|橋（横・上側）
+Bridge (H, Top Side)|橋（横・上側）
+Bridge (H, Top Side)|橋（横・上側）
+Bridge (H, Top Side)|橋（横・上側）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge (V, Top Side, Shadow)|橋（縦・上端・影）
+Bridge (V, Top Side)|橋（縦・上端）
+Bridge (V, Bottom Side, Shadow)|橋（縦・下端・影）
+Bridge (V, Bottom Side)|橋（縦・下端）
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier B|橋脚B
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Shadow (Bridge)|橋の影
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier B|橋脚B
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Shadow (Bridge, Water Edge)|橋の影（水際）
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier B|橋脚B
+Bridge Pier A|橋脚A
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Shadow (Bridge, Water Edge)|橋の影（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A|橋脚A
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A|橋脚A
+Bridge Pier B|橋脚B
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+|
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier B (Water Edge)|橋脚B（水際）
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Shadow (Bridge)|橋の影
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Shadow (Bridge, Water Edge)|橋の影（水際）
+Stone Floor (Wall I, Wall K)|石床（壁I・壁K）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Stone Floor (Wall I, Wall K)|石床（壁I・壁K）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Stone Floor (Wall I)|石床（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Shadow (Wall I)|影（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Stone Floor (Wall I, Shadow)|石床（壁I・影）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Stone Floor (Wall I, Wall K)|石床（壁I・壁K）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Stone Floor (Wall I, Wall K)|石床（壁I・壁K）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Wall I|壁I
+Slanting Wall (Wall I)|斜め壁（壁I）
+Stone Floor (Wall I, Wall K)|石床（壁I・壁K）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Wall I|壁I
+Slanting Wall (Wall I)|斜め壁（壁I）
+Shadow (Wall I)|影（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Slanting Wall (Wall I)|斜め壁（壁I）
+Wall I|壁I
+Slanting Wall (Wall I)|斜め壁（壁I）
+Wall I|壁I
+Shadow (Wall I)|影（壁I）
+Slanting Wall Window C (Right)|斜め壁の窓C（右向き）
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Slanting Wall Window A (Right)|斜め壁の窓A（右向き）
+Slanting Wall Window B (Right)|斜め壁の窓B（右向き）
+Slanting Wall Window B (Left)|斜め壁の窓B（左向き）
+Slanting Wall Window A (Left)|斜め壁の窓A（左向き）
+Slanting Wall Window C (Right)|斜め壁の窓C（右向き）
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Slanting Wall Window A (Right)|斜め壁の窓A（右向き）
+Slanting Wall Window B (Right)|斜め壁の窓B（右向き）
+Slanting Wall Window B (Left)|斜め壁の窓B（左向き）
+Slanting Wall Window A (Left)|斜め壁の窓A（左向き）
+Slanting Wall Window C (Left)|斜め壁の窓C（左向き）
+Iron Fence|鉄柵
+|
+Iron Fence|鉄柵
+Slanting Wall Window A (Right)|斜め壁の窓A（右向き）
+Slanting Wall Window B (Right)|斜め壁の窓B（右向き）
+Slanting Wall Window B (Left)|斜め壁の窓B（左向き）
+Slanting Wall Window A (Left)|斜め壁の窓A（左向き）
+Slanting Wall Window C (Left)|斜め壁の窓C（左向き）
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Window L|窓L
+Window M|窓M
+Iron Ladder|鉄はしご
+Wall Detail (Wall I)|壁装飾（壁I）
+Stairs (Down)|下り階段
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Window L|窓L
+Window M|窓M
+Iron Ladder|鉄はしご
+Wall Detail (Wall I)|壁装飾（壁I）
+Wall I|壁I
+Wall I|壁I
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Window N|窓N
+Window O|窓O
+Iron Ladder|鉄はしご
+Wall Detail (Wall I)|壁装飾（壁I）
+Wall Detail (Wall I)|壁装飾（壁I）
+Shadow (Wall Detail, Wall I)|壁装飾の影（壁I）
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Iron Fence|鉄柵
+Iron Fence|鉄柵
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Shadow (Bridge)|橋の影
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Shadow (Bridge)|橋の影
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Shadow (Bridge)|橋の影
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Shadow (Bridge)|橋の影

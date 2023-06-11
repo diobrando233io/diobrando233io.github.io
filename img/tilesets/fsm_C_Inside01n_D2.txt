@@ -1,0 +1,256 @@
+﻿Wall U (Red Brick)|壁U（赤レンガ）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U (Red Brick)|壁U（赤レンガ）
+Stairs (Canal, No Water, Left)|階段（水路・水なし・左）
+Stairs (Canal, No Water, Center)|階段（水路・水なし・中央）
+Stairs (Canal, No Water, Right)|階段（水路・水なし・右）
+Stairs (Canal, No Water, Left)|階段（水路・水なし）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Stairs (Red Brick, Left)|階段（赤レンガ・左）
+Stairs (Red Brick, Center)|階段（赤レンガ・中央）
+Stairs (Red Brick, Right)|階段（赤レンガ・右）
+Stairs (Red Brick)|階段（赤レンガ）
+|
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Shadow (Slanting Wall)|影（斜め壁）
+Stairs (Red Brick, Left)|階段（赤レンガ・左）
+Stairs (Red Brick, Center)|階段（赤レンガ・中央）
+Stairs (Red Brick, Right)|階段（赤レンガ・右）
+Stairs (Red Brick)|階段（赤レンガ）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U (Red Brick)|壁U（赤レンガ）
+Stairs (Red Brick, Left)|階段（赤レンガ・左）
+Stairs (Red Brick, Center)|階段（赤レンガ・中央）
+Stairs (Red Brick, Right)|階段（赤レンガ・右）
+Stairs (Red Brick)|階段（赤レンガ）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Stairs (Red Brick, Canal, Left)|階段（赤レンガ・水路・左）
+Stairs (Red Brick, Canal, Center)|階段（赤レンガ・水路・中央）
+Stairs (Red Brick, Canal, Right)|階段（赤レンガ・水路・右）
+Stairs (Red Brick, Canal)|階段（赤レンガ・水路）
+Wall U (Red Brick)|壁U（赤レンガ）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U (Red Brick)|壁U（赤レンガ）
+Shadow (Stairs, Canal)|影（階段・水路）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Shadow (Cannot Walk)|影（通行不可）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Shadow (Cannot Walk)|影（通行不可）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Large Stairs (Red Brick, Up)|大階段（赤レンガ・上り）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Shadow (Can Walk)|影（通行可能）
+Large Stairs (Red Brick, Down)|大階段（赤レンガ・下り）
+Large Stairs (Red Brick, Down)|大階段（赤レンガ・下り）
+Large Stairs (Red Brick, Down)|大階段（赤レンガ・下り）
+Wall Detail A (Wall U)|壁装飾A（壁U）
+Wall Detail A (Wall U)|壁装飾A（壁U）
+Wall Detail B (Wall U)|壁装飾B（壁U）
+Wall Detail B (Wall U)|壁装飾B（壁U）
+Wall U (Can Walk)|壁U（通行可能）
+Large Stairs (Red Brick, Down)|大階段（赤レンガ・下り）
+Large Stairs (Red Brick, Down)|大階段（赤レンガ・下り）
+Large Stairs (Red Brick, Down)|大階段（赤レンガ・下り）
+Wall Detail A (Wall U)|壁装飾A（壁U）
+Wall Detail B (Wall U)|壁装飾B（壁U）
+Wall Detail C (Wall U)|壁装飾C（壁U）
+Wall Detail B (Wall U, Shadow)|壁装飾B（壁U・影）
+Shadow (Cannot Walk)|影（通行不可）
+Shadow (Cannot Walk)|影（通行不可）
+Stairs (Red Brick, Up)|階段（赤レンガ・上り）
+Stairs (Red Brick, Down)|階段（赤レンガ・下り）
+Wall Detail A (Wall U)|壁装飾A（壁U）
+Wall Detail B (Wall U)|壁装飾B（壁U）
+Wall Detail C (Wall U)|壁装飾C（壁U）
+Wall Detail B (Wall U, Shadow)|壁装飾B（壁U・影）
+Canal Detail (No Water)|水路装飾（水なし）
+Canal Detail (No Water)|水路装飾
+Stairs (Stone, Up)|階段（石・上り）
+Stairs (Stone, Down)|階段（石・下り）
+Bridge (V)|橋（縦）
+Bridge (V)|橋（縦）
+Bridge (V)|橋（縦）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Stairs (Stone, Up)|階段（石・上り）
+Stairs (Stone, Cover)|階段（石・蓋）
+Bridge (V)|橋（縦）
+Bridge (V)|橋（縦）
+Bridge (V)|橋（縦）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Stairs (Stone, Up)|階段（石・上り）
+Stairs (Stone, Hole)|階段（石・穴）
+Bridge (V)|橋（縦）
+Bridge (V)|橋（縦）
+Bridge (V)|橋（縦）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Chair B (Right)|背もたれ椅子B（右向き）
+Chair B (Bottom)|背もたれ椅子B（下向き）
+Stool D|椅子D
+Stool C|椅子C
+Table|テーブル
+Shadow (Bridge)|橋の影
+Shadow (Bridge)|橋の影
+Shadow (Bridge)|橋の影
+Chair B (Left)|背もたれ椅子B（左向き）
+Chair B (Top)|背もたれ椅子B（上向き）
+Pillar H (Top A)|柱H（上A）
+Pillar B (Top A)|柱B（上A）
+Pillar C (Top A)|柱C（上A）
+Pillar E (Top A)|柱E（上A）
+Pillar F (Top A)|柱F（上A）
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Sundries Shelf|雑貨棚
+Pillar H|柱H
+Pillar B|柱B
+Pillar C|柱C
+Pillar E|柱E
+Pillar F|柱F
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Sundries Shelf|雑貨棚
+Pillar H|柱H
+Pillar B|柱B
+Pillar C|柱C
+Pillar E|柱E
+Pillar F|柱F
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Sundries Shelf (Bottom A)|雑貨棚（下A）
+Pillar H (Top B)|柱H（上B）
+Pillar B (Top B)|柱B（上B）
+Pillar C (Top B)|柱C（上B）
+Pillar E (Top B)|柱E（上B）
+Pillar F (Top B)|柱F（上B）
+Spears (Wall Hanging)|槍（壁掛け）
+Spears (Wall Hanging)|槍（壁掛け）
+Sundries Shelf (Bottom B)|雑貨棚（下B）
+Furniture A (Top Board)|家具A（天板）
+Furniture A (Top Board, Gold Pots)|家具A（天板・金のポット）
+Treasure|財宝
+Treasure|財宝
+Gold Pot|金の壺
+Treasure Box with Treasure|財宝の入った宝箱
+Display Stand A|展示台A
+Wall Shelf A|壁飾り棚A
+Furniture A (Accessory Case)|家具A（小物入れ）
+Furniture A (Display Shelf)|家具A（陳列棚）
+Treasure|財宝
+Treasure|財宝
+Gold Pillar|金の柱
+Gold Ingots A|金の延べ棒A
+Display Stand B|展示台B
+Wall Shelf A|壁飾り棚A
+Furniture A (Accessory Case)|家具A（小物入れ）
+Furniture A (Display Shelf)|家具A（陳列棚）
+Gold Statue|金の像
+Gold Pedestal|金の台座
+Gold Pillar|金の柱
+Gold Ingots B|金の延べ棒B
+Display Stand C|展示台C
+Wall Shelf B|壁飾り棚B
+Gold Swords|金の剣
+Gold Shield|金の盾
+Gold Statue|金の像
+Gold Pedestal|金の台座
+Gold Pillar|金の柱
+Pedestal (Gold Pillar)|金の柱の台座
+Display Stand D|展示台D
+Wall Shelf B|壁飾り棚B
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars (V)|鉄格子（縦）
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Chain (Cage Jail)|牢檻の鎖
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars (V)|鉄格子（縦）
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Chain (Cage Jail)|牢檻の鎖
+Jail Bars (Bottom, Underwater A)|鉄格子（下端・水中A）
+Jail Bars (Bottom, Underwater A)|鉄格子（下端・水中A）
+Jail Bars (Bottom, Underwater A)|鉄格子（下端・水中A）
+Jail Bars (V, Bottom, Underwater A)|鉄格子（縦・下端・水中A）
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Jail Bars (Bottom, Underwater B)|鉄格子（下端・水中B）
+Jail Bars (Bottom, Underwater B)|鉄格子（下端・水中B）
+Jail Bars (Bottom, Underwater B)|鉄格子（下端・水中B）
+Jail Bars (V, Bottom, Underwater B)|鉄格子（縦・下端・水中B）
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Door (Cage Jail)|牢檻の扉
+Jail Bars (Bottom)|鉄格子（下端）
+Jail Bars (Bottom)|鉄格子（下端）
+Jail Bars (Bottom)|鉄格子（下端）
+Jail Bars (V, Bottom)|鉄格子（縦・下端）
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Iron Ladder (Down A, Cover)|鉄はしご（下りA・蓋）
+Iron Ladder (Down A, Hole)|鉄はしご（下りA・穴）
+Iron Ladder (Down A)|鉄はしご（下りA）
+Iron Ladder|鉄はしご
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Cage Jail|牢檻
+Iron Ladder (Down B, Cover)|鉄はしご（下りB・蓋）
+Iron Ladder (Down B, Hole)|鉄はしご（下りB・穴）
+Iron Ladder (Down B)|鉄はしご（下りB）
+Iron Ladder|鉄はしご
+Shadow (Cage Jail)|牢檻の影
+Shadow (Cage Jail)|牢檻の影
+Shadow (Cage Jail)|牢檻の影
+Entrance (Cage Jail)|牢檻の入口
+Iron Ladder|鉄はしご
+Iron Ladder (Canal)|鉄はしご（水路）
+Iron Ladder (Canal, No Water)|鉄はしご（水路・水なし）
+Iron Ladder|鉄はしご
+Shadow (Cage Jail)|牢檻の影
+Shadow (Cage Jail)|牢檻の影
+Shadow (Cage Jail)|牢檻の影
+Broken Door (Cage Jail)|牢檻の壊れた扉

@@ -1,0 +1,31 @@
+faceフォルダーに規格に合った画像を入れることで、
+探索者協会のキャラメイクで作ったキャラクターに任意の顔画像を使用することが出来ます。
+
+
+[規格]
+・画像サイズ
+　横144*縦144の.png画像
+
+
+[サンプルについて]
+以下の画像はご提供いただいたものです。
+この場を借りてお礼申し上げます！
+
+choice~.png
+
+アトリエちょいす様
+https://twitter.com/f_da_choice
+https://ci-en.dlsite.com/creator/976
+
+
+siritanuki~.png
+
+尻たぬき様（サークル底々不安　様）
+https://twitter.com/sokosoko_fuan
+https://ci-en.dlsite.com/creator/3894
+
+
+[注意]
+同梱のサンプル画像は、ゲーム内以外での利用はしないでください。
+
+セーブデータを移行する場合、modフォルダもコピーして移行して下さい。

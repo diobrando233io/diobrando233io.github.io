@@ -1,0 +1,256 @@
+﻿Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge (H, Top Side)|橋（横・上側）
+Bridge (H, Top Side)|橋（横・上側）
+Bridge (H, Top Side)|橋（横・上側）
+Bridge (H, Top Side)|橋（横・上側）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge (H)|橋（横）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (V, Left Side)|橋の欄干（縦・左側）
+Bridge (V, Shadow)|橋（縦・影）
+Bridge (V)|橋（縦）
+Bridge Rail (V, Right Side)|橋の欄干（縦・右側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Top Side)|橋の欄干（横・上側）
+Bridge Rail (H, Bottom Side)|橋の欄干（横・下側）
+Bridge (V, Top Side, Shadow)|橋（縦・上端・影）
+Bridge (V, Top Side)|橋（縦・上端）
+Bridge (V, Bottom Side, Shadow)|橋（縦・下端・影）
+Bridge (V, Bottom Side)|橋（縦・下端）
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier B|橋脚B
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Shadow (Bridge)|橋の影
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier B|橋脚B
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Shadow (Bridge, Water Edge)|橋の影（水際）
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier B|橋脚B
+Bridge Pier A|橋脚A
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Shadow (Bridge, Water Edge)|橋の影（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A|橋脚A
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A|橋脚A
+Bridge Pier B|橋脚B
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+|
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier A (Water Edge)|橋脚A（水際）
+Bridge Pier B (Water Edge)|橋脚B（水際）
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Shadow (Bridge)|橋の影
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Bridge Pier A|橋脚A
+Shadow (Bridge, Water Edge)|橋の影（水際）
+Pier Floor|船着き場の床
+Pier Floor|船着き場の床
+Pier Floor|船着き場の床
+Pier Floor|船着き場の床
+Pier Floor|船着き場の床
+Pillar A (Pier)|桟橋の支柱
+Water Edge Stairs (Pier Floor, Top A)|水際の階段（船着き場の床・上向きA）
+Water Edge Stairs (Pier Floor, Top B)|水際の階段（船着き場の床・上向きB）
+Pier Floor|船着き場の床
+Pier Floor|船着き場の床
+Pier Floor|船着き場の床
+Pier Floor|船着き場の床
+Pier Floor|船着き場の床
+Pillar A (Pier)|桟橋の支柱A
+Water Edge Stairs (Pier Floor, Bottom)|水際の階段（船着き場の床・下向き）
+Water Edge Stairs (Pier Floor, Left)|水際の階段（船着き場の床・左向き）
+Wall L (Pier)|壁L（船着き場）
+Wall L (Pier)|壁L（船着き場）
+Wall L (Pier)|壁L（船着き場）
+|
+Pillar A (Pier, Right)|桟橋の支柱（右向き）
+Pillar A (Pier, Left)|桟橋の支柱（左向き）
+Water Edge Stairs (Pier Floor, Bottom)|水際の階段（船着き場の床・下向き）
+Water Edge Stairs (Pier Floor, Right)|水際の階段（船着き場の床・右向き）
+Wall L (Pier, Water Edge)|壁L（船着き場・水際）
+Wall L (Pier, Water Edge)|壁L（船着き場・水際）
+Wall L (Pier, Water Edge)|壁L（船着き場・水際）
+Shadow (Pier, Water Edge)|水際の影（船着き場）
+Pillar A (Pier, Right)|桟橋の支柱（右向き）
+Pillar A (Pier, Left)|桟橋の支柱（左向き）
+Stairs (Pier, Left)|船着き場への階段（左向き）
+Stairs (Pier, Right)|船着き場への階段（右向き）
+Pillar B (Pier)|桟橋の支柱B
+Pillar B (Pier)|桟橋の支柱B
+Pillar B (Pier)|桟橋の支柱B
+Pillar B (Pier)|桟橋の支柱B
+Pier A (V)|桟橋A（縦）
+Pillar B (Pier)|桟橋の支柱B
+Stairs A (Pier, Left)|船着き場への階段A（左向き）
+Stairs A (Pier, Right)|船着き場への階段A（右向き）
+Pillar B (Pier)|桟橋の支柱B
+Pillar B (Pier)|桟橋の支柱B
+Pillar B (Pier)|桟橋の支柱B
+Pier A (H)|桟橋A（横）
+Pier (H)|桟橋（横）
+Pier B (V)|桟橋B（縦）
+Stairs B (Pier, Left)|船着き場への階段B（左向き）
+Stairs B (Pier, Right)|船着き場への階段B（右向き）
+Pillar B (Pier)|桟橋の支柱B
+Pillar B (Pier)|桟橋の支柱B
+Pillar B (Pier)|桟橋の支柱B
+Pier (V)|桟橋（縦）
+Pier B (H)|桟橋B（横）
+Bridge Girder|橋げた
+Stairs B (Pier, Left)|船着き場への階段B（左向き）
+Stairs B (Pier, Right)|船着き場への階段B（右向き）
+Gondola A (Left)|ゴンドラA（左向き）
+Gondola A (Left)|ゴンドラA（左向き）
+Gondola A (Left)|ゴンドラA（左向き）
+Gondola A (Left)|ゴンドラA（左向き）
+Gondola A (Bottom)|ゴンドラA（下向き）
+Gondola A (Top)|ゴンドラA（上向き）
+Stairs B (Pier, Left)|船着き場への階段B（左向き）
+Stairs B (Pier, Right)|船着き場への階段B（右向き）
+Gondola A (Left)|ゴンドラA（左向き）
+Gondola A (Left)|ゴンドラA（左向き）
+Gondola A (Left)|ゴンドラA（左向き）
+Gondola A (Left)|ゴンドラA（左向き）
+Gondola A (Bottom)|ゴンドラA（下向き）
+Gondola A (Top)|ゴンドラA（上向き）
+Crane (Left)|クレーン（左向き）
+Crane (Left)|クレーン（左向き）
+Gondola A (Right)|ゴンドラA（右向き）
+Gondola A (Right)|ゴンドラA（右向き）
+Gondola A (Right)|ゴンドラA（右向き）
+Gondola A (Right)|ゴンドラA（右向き）
+Gondola A (Bottom)|ゴンドラA（下向き）
+Gondola A (Top)|ゴンドラA（上向き）
+Crane (Left)|クレーン（左向き）
+Crane (Left)|クレーン（左向き）
+Gondola A (Right)|ゴンドラA（右向き）
+Gondola A (Right)|ゴンドラA（右向き）
+Gondola A (Right)|ゴンドラA（右向き）
+Gondola A (Right)|ゴンドラA（右向き）
+Gondola A (Bottom)|ゴンドラA（下向き）
+Gondola A (Top)|ゴンドラA（上向き）
+Crane (Left)|クレーン（左向き）
+Crane (Left)|クレーン（左向き）
+Gondola B (Left)|ゴンドラB（左向き）
+Gondola B (Left)|ゴンドラB（左向き）
+Gondola B (Left)|ゴンドラB（左向き）
+Gondola B (Left)|ゴンドラB（左向き）
+Gondola B (Bottom)|ゴンドラB（下向き）
+Gondola B (Top)|ゴンドラB（上向き）
+Crane (Right)|クレーン（右向き）
+Crane (Right)|クレーン（右向き）
+Gondola B (Left)|ゴンドラB（左向き）
+Gondola B (Left)|ゴンドラB（左向き）
+Gondola B (Left)|ゴンドラB（左向き）
+Gondola B (Left)|ゴンドラB（左向き）
+Gondola B (Bottom)|ゴンドラB（下向き）
+Gondola B (Top)|ゴンドラB（上向き）
+Crane (Right)|クレーン（右向き）
+Crane (Right)|クレーン（右向き）
+Gondola B (Right)|ゴンドラB（右向き）
+Gondola B (Right)|ゴンドラB（右向き）
+Gondola B (Right)|ゴンドラB（右向き）
+Gondola B (Right)|ゴンドラB（右向き）
+Gondola B (Bottom)|ゴンドラB（下向き）
+Gondola B (Top)|ゴンドラB（上向き）
+Crane (Right)|クレーン（右向き）
+Crane (Right)|クレーン（右向き）
+Gondola B (Right)|ゴンドラB（右向き）
+Gondola B (Right)|ゴンドラB（右向き）
+Gondola B (Right)|ゴンドラB（右向き）
+Gondola B (Right)|ゴンドラB（右向き）
+Gondola B (Bottom)|ゴンドラB（下向き）
+Gondola B (Top)|ゴンドラB（上向き）
+Hook (Crane, Left)|クレーンのフック（左向き）
+Hook (Crane, Right)|クレーンのフック（右向き）
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Baggage A (Crane)|クレーンの荷物A
+Baggage B (Crane)|クレーンの荷物B
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Ledge D|段差D
+Baggage C (Crane)|クレーンの荷物C
+Shadow (Crane)|影（クレーンの荷物）
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Shadow (Bridge)|橋の影
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Shadow (Bridge)|橋の影
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Bridge Pier C|橋脚C
+Shadow (Bridge)|橋の影
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Bridge Pier D|橋脚D
+Shadow (Bridge)|橋の影

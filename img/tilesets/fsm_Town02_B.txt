@@ -1,0 +1,256 @@
+﻿Transparent|透明
+Shop Sign (Weapon Shop)|看板（武器屋）
+Shop Sign (Armor Shop)|看板（防具屋）
+Shop Sign (Weapon & Armor Shop)|看板（武器・防具屋）
+Shop Sign (Magic Shop)|看板（魔法屋）
+Shop Sign (Common)|看板（汎用）
+Notice Board A|掲示板A
+Notice Board A|掲示板A
+Iron Sign (Left)|アイアン看板（左）
+Iron Sign|アイアン看板
+Iron Sign (Pub)|アイアン看板（酒場）
+Shop Sign (Coin Shop)|看板（コインショップ）
+Shop Sign (Pharmacy)|看板（薬屋）
+Shop Sign (Bakery)|看板（パン屋）
+Notice Board A|掲示板A
+Notice Board A|掲示板A
+Iron Sign (Right)|アイアン看板（右）
+Iron Sign (Item Shop)|アイアン看板（道具屋）
+Iron Sign (Common)|アイアン看板（汎用）
+Tapestry A|タペストリーA
+Tapestry B|タペストリーB
+Tapestry C|タペストリーC
+Sign A|立て札A
+Sign B|立て札B
+Iron Sign (Inn)|アイアン看板（宿屋）
+Iron Sign (Magic Shop)|アイアン看板（魔法屋）
+Iron Sign (Coin Shop)|アイアン看板（コインショップ）
+Post|ポスト
+Stone Monument A|石碑A
+Stone Monument B|石碑B
+Sign C|立て札C
+Notice Board B|掲示板B
+Ledge A (Meadow A, Top)|段差A（草地A・上端）
+Ledge A (Meadow A, Top)|段差A（草地A・上端）
+Ledge A (Meadow A, Top)|段差A（草地A・上端）
+Ledge A (Meadow A, Top)|段差A（草地A・上端）
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Shadow (Criff, Water Edge)|影（水際の崖）
+Ledge A (Meadow A, Top, Shadow)|段差A（草地A・上端・影）
+Ledge A (Meadow A, Top, Shadow)|段差A（草地A・上端・影）
+Ledge A (Meadow A, Top, Shadow)|段差A（草地A・上端・影）
+Ledge A (Meadow A, Top, Shadow)|段差A（草地A・上端・影）
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Cliff (Water Edge)|水際の崖
+Shadow (Criff, Water Edge)|影（水際の崖）
+Cliff|崖
+Cliff|崖
+Cliff|崖
+Boulder B|岩B
+Stepping Stones|踏み石
+Grave A|墓A
+Grave B|墓B
+Grave C|墓C
+Gravel A|砂利A
+Gravel B|砂利B
+Boulder A|岩A
+Boulder B|岩B
+Grave D|墓D
+Grave A|墓A
+Grave B|墓B
+Offered Flowers|お供えの花
+Grass A|草A
+Grass B|草B
+Grass C|草C
+Bush A|植え込みA
+Flowers A|花A
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Large Tree A|大きな木A
+Large Tree A|大きな木A
+Grass D|草D
+Tree|木
+Flowers B|花B
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Large Tree A|大きな木A
+Large Tree A|大きな木A
+Flowers C|花C
+Tree|木
+Flowers D|花D
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Planter A|プランターA
+Planter B|プランターB
+Planter C|プランターC
+Planter I|プランターI
+Planter J|プランターJ
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Planter D|プランターD
+Planter F|プランターF
+Planter H|プランターH
+Planter I|プランターI
+Planter J|プランターJ
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Large Tree B|大きな木B
+Planter E|プランターE
+Planter F|プランターF
+Flower Bed A|花壇A
+Flower Bed A|花壇A
+Flower Bed B|花壇B
+Flower Bed B|花壇B
+Flower Bed C|花壇C
+Flower Bed C|花壇C
+Planter G|プランターG
+Planter G|プランターG
+Flower Bed A|花壇A
+Flower Bed A|花壇A
+Flower Bed B|花壇B
+Flower Bed B|花壇B
+Flower Bed C|花壇C
+Flower Bed C|花壇C
+Shadow (Cannot Walk)|影（通行不可）
+Shadow (Cannot Walk)|影（通行不可）
+Shadow|影
+Shadow (Cannot Walk)|影（通行不可）
+Bench A (Bottom)|ベンチA（下向き）
+Bench A (Top)|ベンチA（上向き）
+Bench A (Left)|ベンチA（左向き）
+Bench A (Right)|ベンチA（右向き）
+Shadow|影
+Bench B (Right)|ベンチB（右向き）
+Stairs A (Left)|階段A（左）
+Stairs A (Center)|階段A（中央）
+Stairs A (Right)|階段A（右）
+Stairs B|階段B
+Stairs A (Left, Shadow)|階段A（左・影）
+Shadow (Stairs)|階段の影
+Shadow (Cannot Walk)|影（通行不可）
+Bench B (Right)|ベンチB（右向き）
+Stairs A (Left)|階段A（左）
+Stairs A (Center)|階段A（中央）
+Stairs A (Right)|階段A（右）
+Stairs B|階段B
+Stairs A (Left, Shadow)|階段A（左・影）
+Shadow (Stairs)|階段の影
+Shadow|影
+Bench B (Left)|ベンチB（左向き）
+Stairs A (Left)|階段A（左）
+Stairs A (Center)|階段A（中央）
+Stairs A (Right)|階段A（右）
+Stairs B|階段B
+Stairs A (Left, Shadow)|階段A（左・影）
+Shadow (Stairs)|階段の影
+Shadow|影
+Bench B (Left)|ベンチB（左向き）
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Bench B (Bottom)|ベンチB（下向き）
+Bench B (Bottom)|ベンチB（下向き）
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Bench B (Top)|ベンチB（上向き）
+Bench B (Top)|ベンチB（上向き）
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Bush B (V)|植え込みB（縦）
+Bush B (V, Streetlight)|植え込みB（縦・街灯）
+Banister|手すり
+Banister|手すり
+Banister (Stairs)|手すり（階段）
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Bush B (V)|植え込みB（縦）
+Bush B (V, Streetlight)|植え込みB（縦・街灯）
+Banister|手すり
+Banister|手すり
+Banister (Stairs)|手すり（階段）
+Banister|手すり
+Banister|手すり
+Banister|手すり
+Bush B (V)|植え込みB（縦）
+Streetlight A|街灯A
+Streetlight B|街灯B
+Streetlight C|街灯C
+Streetlight D|街灯D
+Streetlight C (No Light)|街灯C（ライトなし）
+Streetlight D (No Light)|街灯D（ライトなし）
+Banister|手すり
+Bush B (H, Streetlight)|植え込みB（横・街灯）
+Streetlight A|街灯A
+Streetlight B|街灯B
+Streetlight C|街灯C
+Streetlight D|街灯D
+Pole (Streetlight C)|ポール（街灯C）
+Pole (Streetlight D)|ポール（街灯D）
+Banister|手すり
+Bush B (H, Streetlight)|植え込みB（横・街灯）
+Streetlight A and B|街灯A・街灯B
+Streetlight B (No Light)|街灯B（ライトなし）
+Streetlight C|街灯C
+Streetlight D|街灯D
+Streetlight C|街灯C
+Streetlight D|街灯D
+Banister|手すり
+Bush B (H)|植え込みB（横）
+Bush B (H)|植え込みB（横）
+Bush B (H)|植え込みB（横）
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Bush B (H)|植え込みB（横）
+Bush B (H)|植え込みB（横）
+Bush B (H)|植え込みB（横）
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Bush D|茂みD
+Bush D|茂みD
+Bush D|茂みD
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Bush D|茂みD
+Bush D|茂みD
+Bush D|茂みD
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Bush D|茂みD
+Bush D|茂みD
+Bush D|茂みD
+Bush D|茂みD
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ
+Ivy Wall|壁のツタ

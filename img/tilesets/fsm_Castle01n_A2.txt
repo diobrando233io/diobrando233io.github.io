@@ -1,0 +1,32 @@
+﻿Meadow A|草地A
+Bright Meadow|明るい草地
+Deep Meadow|濃い草地
+Dirt (Meadow A)|土（草地A）
+Bush A|茂みA
+Flower Zone A|花畑A
+Ledge G (Stone Floor)|段差G（石床）
+Hedge A|生け垣A
+Meadow B|草地B
+Bush B (Meadow A)|茂みB（草地A）
+Bush C (Meadow A)|茂みC（草地A）
+Flower Zone B (Meadow A)|花畑B（草地A）
+Curb A|縁石A
+Curb B|縁石B
+Curb C|縁石C
+Hedge B|生け垣B
+Road A (Meadow A)|道A（草地A）
+Road B|道B
+Ledge A (Meadow A)|段差A（草地A）
+Ledge B (Meadow A)|段差B（草地A）
+Ledge C|段差C
+Ledge D|段差D
+Ledge E|段差E
+Fencepost A|柵A
+Road C (Meadow A)|道C（草地A）
+Road D|道D
+Ledge F (Meadow A)|段差F（草地A）
+Road E (Meadow A)|道E（草地A）
+Road C|道C
+Road E|道E
+Road F|道F
+Fencepost B|柵B

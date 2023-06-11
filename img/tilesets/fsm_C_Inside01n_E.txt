@@ -1,0 +1,256 @@
+﻿Wall L|壁L
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Wall L|壁L
+Wall A|壁A
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+|
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Shadow (Slanting Wall)|影（斜め壁）
+|
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Shadow (Slanting Wall)|影（斜め壁）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Wall L|壁L
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall L|壁L
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Wall L|壁L
+Wall A|壁A
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Wall L|壁L
+Wall L|壁L
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall A|壁A
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Wall L|壁L
+Wall L|壁L
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall A|壁A
+Slanting Wall (Wall L)|斜め壁（壁L）
+Slanting Wall (Wall L)|斜め壁（壁L）
+Wall L|壁L
+Wall L|壁L
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall A|壁A
+Wall H|壁H
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Wall Q|壁Q
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Wall Q|壁Q
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+|
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Shadow (Slanting Wall)|影（斜め壁）
+|
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Shadow (Slanting Wall)|影（斜め壁）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Wall Q|壁Q
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Wall H|壁H
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Wall Q|壁Q
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Wall Q|壁Q
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Wall H|壁H
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Wall Q|壁Q
+Wall Q|壁Q
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Wall H|壁H
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Wall Q|壁Q
+Wall Q|壁Q
+Slanting Wall (Wall H)|斜め壁（壁H）
+Slanting Wall (Wall H)|斜め壁（壁H）
+Wall H|壁H
+Wall H|壁H
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Slanting Wall (Wall Q)|斜め壁（壁Q）
+Wall Q|壁Q
+Wall Q|壁Q
+Window F|窓F
+Window G|窓G
+Wall Detail A|壁装飾A
+Wall Detail B|壁装飾B
+Slanting Wall Window A (Right)|斜め壁の窓A（右向き）
+Slanting Wall Window A (Left)|斜め壁の窓A（左向き）
+Slanting Wall Window B (Right)|斜め壁の窓B（右向き）
+Slanting Wall Window B (Left)|斜め壁の窓B（左向き）
+Ledge Detail (Ledge A, Canal)|段差装飾（段差A・水路）
+Ledge Detail (Ledge B, Canal)|段差装飾（段差B・水路）
+Ledge Detail (Ledge C, Canal)|段差装飾（段差C・水路）
+Wall Hanging Candlestick Stand|壁掛け燭台立て
+Slanting Wall Window A (Right)|斜め壁の窓A（右向き）
+Slanting Wall Window A (Left)|斜め壁の窓A（左向き）
+Slanting Wall Window B (Right)|斜め壁の窓B（右向き）
+Slanting Wall Window B (Left)|斜め壁の窓B（左向き）
+Ledge Detail (Ledge A, Canal)|段差装飾（段差A・水路）
+Ledge Detail (Ledge B, Canal)|段差装飾（段差B・水路）
+Ledge Detail (Ledge C, Canal)|段差装飾（段差C・水路）
+Drain Pipe|排水管
+Slanting Wall Window C (Right)|斜め壁の窓C（右向き）
+Slanting Wall Window C (Left)|斜め壁の窓C（左向き）
+Slanting Wall Window D (Right)|斜め壁の窓D（右向き）
+Slanting Wall Window D (Left)|斜め壁の窓D（左向き）
+Wall Detail A (Wall L)|壁装飾A（壁L）
+Wall Detail A (Wall L)|壁装飾A（壁L）
+Wall Detail B (Wall L)|壁装飾B（壁L）
+Wall Detail B (Wall L)|壁装飾B（壁L）
+Slanting Wall Window A (Dark, Right)|斜め壁の窓A（暗闇・右向き）
+Slanting Wall Window A (Dark, Left)|斜め壁の窓A（暗闇・左向き）
+Slanting Wall Window B (Dark, Right)|斜め壁の窓B（暗闇・右向き）
+Slanting Wall Window B (Dark, Left)|斜め壁の窓B（暗闇・左向き）
+Wall Detail A (Wall L)|壁装飾A（壁L）
+Wall Detail B (Wall L)|壁装飾B（壁L）
+Wall Detail C (Wall L)|壁装飾C（壁L）
+Wall Detail B (Wall L, Shadow)|壁装飾B（壁L・影）
+Slanting Wall Window A (Dark, Right)|斜め壁の窓A（暗闇・右向き）
+Slanting Wall Window A (Dark, Left)|斜め壁の窓A（暗闇・左向き）
+Slanting Wall Window B (Dark, Right)|斜め壁の窓B（暗闇・右向き）
+Slanting Wall Window B (Dark, Left)|斜め壁の窓B（暗闇・左向き）
+Wall Detail A (Wall L)|壁装飾A（壁L）
+Wall Detail B (Wall L)|壁装飾B（壁L）
+Wall Detail C (Wall L)|壁装飾C（壁L）
+Wall Detail B (Wall L, Shadow)|壁装飾B（壁L・影）
+Slanting Wall Window C (Dark, Right)|斜め壁の窓C（暗闇・右向き）
+Slanting Wall Window C (Dark, Left)|斜め壁の窓C（暗闇・左向き）
+Slanting Wall Window D (Dark, Right)|斜め壁の窓D（暗闇・右向き）
+Slanting Wall Window D (Dark, Left)|斜め壁の窓D（暗闇・左向き）
+Wall Detail A (Wall Q)|壁装飾A（壁Q）
+Wall Detail A (Wall Q)|壁装飾A（壁Q）
+Wall Detail B (Wall Q)|壁装飾B（壁Q）
+Wall Detail B (Wall Q)|壁装飾B（壁Q）
+Wall L (Can Walk)|壁L（通行可能）
+Window H|窓H
+Window H (Dark)|窓H（暗闇）
+Window I|窓I
+Wall Detail A (Wall Q)|壁装飾A（壁Q）
+Wall Detail B (Wall Q)|壁装飾B（壁Q）
+Wall Detail C (Wall Q)|壁装飾C（壁Q）
+Wall Detail B (Wall Q, Shadow)|壁装飾B（壁Q・影）
+Wall Q (Can Walk)|壁Q（通行可能）
+Window H|窓H
+Window H (Dark)|窓H（暗闇）
+Window I (Dark)|窓I（暗闇）
+Wall Detail A (Wall Q)|壁装飾A（壁Q）
+Wall Detail B (Wall Q)|壁装飾B（壁Q）
+Wall Detail C (Wall Q)|壁装飾C（壁Q）
+Wall Detail B (Wall Q, Shadow)|壁装飾B（壁Q・影）
+Jail Bed B (Left)|牢屋のベッドB（左）
+Jail Bed B (Right)|牢屋のベッドB（右）
+Fetter|足枷
+Handcuffs|手枷
+Jail Bars (V, Top Surface)|鉄格子（縦・天面）
+Jail Bars (V)|鉄格子（縦）
+Jail Bed A|牢屋のベッドA
+Jail Bed A|牢屋のベッドA
+Jail Bed B (Left)|牢屋のベッドB（左）
+Jail Bed B (Right)|牢屋のベッドB（右）
+Jail Bed B (Left)|牢屋のベッドB（左）
+Jail Bed B (Right)|牢屋のベッドB（右）
+Jail Bars (V, Top Surface)|鉄格子（縦・天面）
+Jail Bars (V)|鉄格子（縦）
+Jail Bed A|牢屋のベッドA
+Jail Bed A|牢屋のベッドA
+Jail Bed B (Left)|牢屋のベッドB（左）
+Jail Bed B (Right)|牢屋のベッドB（右）
+Jail Bed B (Left)|牢屋のベッドB（左）
+Jail Bed B (Right)|牢屋のベッドB（右）
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Entrance (Jail Bars)|鉄格子の入口
+Door (Jail Bars)|鉄格子の扉
+Jail Bed B (Left)|牢屋のベッドB（左）
+Jail Bed B (Right)|牢屋のベッドB（右）
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Jail Bars|鉄格子
+Entrance (Jail Bars)|鉄格子の入口
+Door (Jail Bars)|鉄格子の扉
+Jail Bed B (Left)|牢屋のベッドB（左）
+Jail Bed B (Right)|牢屋のベッドB（右）

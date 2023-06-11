@@ -1,0 +1,256 @@
+﻿Entrance A|入口A
+Entrance A|入口A
+Entrance A|入口A
+Entrance B|入口B
+Tapestry A|タペストリーA
+Tapestry A (Shadow)|タペストリーA（影）
+Tapestry B|タペストリーB
+Tapestry B (Shadow)|タペストリーB（影）
+Entrance A|入口A
+Entrance A|入口A
+Entrance A|入口A
+Entrance B|入口B
+Tapestry A|タペストリーA
+Tapestry A (Shadow)|タペストリーA（影）
+Tapestry B|タペストリーB
+Tapestry B (Shadow)|タペストリーB（影）
+Window A (Top Half A)|窓A（上半分A）
+Window B (Top Half A)|窓B（上半分A）
+Window C (Top Half A)|窓C（上半分A）
+Window A (Bottom Half B)|窓A（下半分B）
+Window C (Bottom Half B)|窓C（下半分B）
+Window D|窓D
+Window D (Curtain Tied)|窓D（結んだカーテン）
+Window E|窓E
+Window A (Bottom Half A)|窓A（下半分A）
+Window B (Bottom Half A)|窓B（下半分A）
+Window C (Bottom Half A)|窓C（下半分A）
+Window A (Bottom Half C)|窓A（下半分C）
+Window C (Bottom Half C)|窓C（下半分C）
+Window D|窓D
+Window E|窓E
+Window E (Curtain Tied)|窓E（結んだカーテン）
+Window A (Top Half B)|窓A（上半分B）
+Window B (Top Half B)|窓B（上半分B）
+Window C (Top Half B)|窓C（上半分B）
+Window A (Bottom Half D)|窓A（下半分D）
+Window B (Bottom Half B)|窓B（下半分B）
+Window D (Rope)|窓D（ロープ）
+Window E (Rope)|窓E（ロープ）
+Curtain Tied|結んだカーテン
+Window F (Wall I)|窓F（壁I）
+Window G (Wall I)|窓G（壁I）
+Window H (Wall I)|窓H（壁I）
+Window F (Wall I, Wall J)|窓F（壁I・壁J）
+Window G (Wall I, Wall J)|窓G（壁I・壁J）
+Large Window (Wall Detail C)|大きな窓（壁装飾C）
+Large Window (Wall Detail C)|大きな窓（壁装飾C）
+Curtain Tied (Bottom A)|結んだカーテン（下端A）
+Window F (Wall I)|窓F（壁I）
+Window G (Wall I)|窓G（壁I）
+Window H (Wall I)|窓H（壁I）
+Window F (Wall I, Wall J)|窓F（壁I・壁J）
+Window G (Wall I, Wall J)|窓G（壁I・壁J）
+Large Window (Wall Detail C)|大きな窓（壁装飾C）
+Large Window (Wall Detail C)|大きな窓（壁装飾C）
+Curtain Tied (Bottom B)|結んだカーテン（下端B）
+Window F|窓F
+Window G|窓G
+Window H|窓H
+Window J|窓J
+Wall Detail A|壁装飾A
+Wall Detail B (Left)|壁装飾B（左）
+Wall Detail B (Center)|壁装飾B（中央）
+Wall Detail B (Right)|壁装飾B（右）
+Window F|窓F
+Window G|窓G
+Window I|窓I
+Window J|窓J
+Wall Detail A|壁装飾A
+Wall Detail B (Left)|壁装飾B（左）
+Wall Detail B (Center)|壁装飾B（中央）
+Wall Detail B (Right)|壁装飾B（右）
+Wall Detail C|壁装飾C
+Wall Detail C|壁装飾C
+Wall I|壁I
+Wall Detail D|壁装飾D
+Wall Detail D|壁装飾D
+Wall Detail D|壁装飾D
+Wall Detail E|壁装飾E
+Wall Detail F|壁装飾F
+Wall Detail C|壁装飾C
+Wall Detail C|壁装飾C
+Wall I|壁I
+Wall Detail D|壁装飾D
+Wall Detail D|壁装飾D
+Wall Detail D|壁装飾D
+Wall Detail E|壁装飾E
+Wall Detail F|壁装飾F
+Wall Detail C|壁装飾C
+Wall Detail C|壁装飾C
+Wall Detail C (Bottom, Shadow)|壁装飾C（下端・影）
+Wall Detail D|壁装飾D
+Wall Detail D|壁装飾D
+Wall Detail D|壁装飾D
+Wall Detail E|壁装飾E
+Wall Detail F|壁装飾F
+Wall Detail C|壁装飾C
+Wall Detail C|壁装飾C
+Shadow (Wal Detail C)|影（壁装飾C）
+Wall Detail D|壁装飾D
+Wall Detail D|壁装飾D
+Wall Detail D|壁装飾D
+Wall Detail E|壁装飾E
+Wall Detail F|壁装飾F
+Wall Detail G|壁装飾G
+Wall Detail H (Left)|壁装飾H（左）
+Wall Detail H (Center A)|壁装飾H（中央A）
+Wall Detail H (Right)|壁装飾H（右）
+Wall Detail H (Left, Shadow)|壁装飾H（左・影）
+Wall Detail H (Center A, Shadow)|壁装飾H（中央A・影）
+Wall Detail H (Center B)|壁装飾H（中央B）
+Shadow (Wal Detail H)|影（壁装飾H）
+Wall Detail G|壁装飾G
+Wall Detail H (Left)|壁装飾H（左）
+Wall Detail H (Center A)|壁装飾H（中央A）
+Wall Detail H (Right)|壁装飾H（右）
+Wall Detail H (Left, Shadow)|壁装飾H（左・影）
+Wall Detail H (Center A, Shadow)|壁装飾H（中央A・影）
+Wall Detail H (Center B)|壁装飾H（中央B）
+Shadow (Wal Detail H)|影（壁装飾H）
+Wall Detail G|壁装飾G
+Wall Detail H (Left)|壁装飾H（左）
+Wall Detail H (Center A)|壁装飾H（中央A）
+Wall Detail H (Right)|壁装飾H（右）
+Wall Detail H (Left, Shadow)|壁装飾H（左・影）
+Wall Detail H (Center A, Shadow)|壁装飾H（中央A・影）
+Wall Detail H (Center B)|壁装飾H（中央B）
+Shadow (Wal Detail H)|影（壁装飾H）
+Wall Detail G|壁装飾G
+Shadow (Wal Detail G)|影（壁装飾G）
+Wall Detail F (Left)|壁装飾F（左向き）
+Wall Detail F (Right)|壁装飾F（右向き）
+Steeple|尖塔
+Steeple|尖塔
+Wall Detail (Chain, Drawbridge, No Chain)|壁装飾（跳ね橋の鎖・鎖なし）
+Chain (Drawbridge)|跳ね橋の鎖
+Wall Detail G (Left)|壁装飾G（左向き）
+Wall Detail G (Right)|壁装飾G（右向き）
+Wall Detail F (Left)|壁装飾F（左向き）
+Wall Detail F (Right)|壁装飾F（右向き）
+Steeple|尖塔
+Steeple|尖塔
+Wall Detail (Chain, Drawbridge)|壁装飾（跳ね橋の鎖）
+Chain (Drawbridge, Down, Bottom)|跳ね橋の鎖（下がった状態・下端）
+Wall Detail G (Left)|壁装飾G（左向き）
+Wall Detail G (Right)|壁装飾G（右向き）
+Wall Detail F (Left)|壁装飾F（左向き）
+Wall Detail F (Right)|壁装飾F（右向き）
+Steeple|尖塔
+Steeple|尖塔
+Shadow (Drawbridge, Up)|跳ね橋の影（上がった状態）
+Chain (Drawbridge, Down, Bottom)|跳ね橋の鎖（下がった状態・下端）
+Wall Detail G (Left)|壁装飾G（左向き）
+Wall Detail G (Right)|壁装飾G（右向き）
+Wall Detail I (Left)|壁装飾I（左）
+Wall Detail I (Center)|壁装飾I（中央）
+Wall Detail I (Right)|壁装飾I（右）
+Drawbridge (Up)|跳ね橋（上がった状態）
+Drawbridge (Up)|跳ね橋（上がった状態）
+Drawbridge (Up)|跳ね橋（上がった状態）
+Wall Detail G (Left)|壁装飾G（左向き）
+Wall Detail G (Right)|壁装飾G（右向き）
+Wall Detail J (Left)|壁装飾J（左）
+Wall Detail J (Center)|壁装飾J（中央）
+Wall Detail J (Right)|壁装飾J（右）
+Drawbridge (Up)|跳ね橋（上がった状態）
+Drawbridge (Up)|跳ね橋（上がった状態）
+Drawbridge (Up)|跳ね橋（上がった状態）
+|
+|
+Wall I (Roof)|壁I（屋根）
+|
+|
+Shadow (Drawbridge, Up)|跳ね橋の影（上がった状態）
+Shadow (Drawbridge, Up)|跳ね橋の影（上がった状態）
+Shadow (Drawbridge, Up)|跳ね橋の影（上がった状態）
+|
+Wall I (Roof)|壁I（屋根）
+Wall I (Roof)|壁I（屋根）
+Wall I (Roof)|壁I（屋根）
+|
+Drawbridge (Down)|跳ね橋（下がった状態）
+Drawbridge (Down)|跳ね橋（下がった状態）
+Drawbridge (Down)|跳ね橋（下がった状態）
+Wall I (Roof)|壁I（屋根）
+Wall I (Roof)|壁I（屋根）
+Wall I|壁I
+Wall I (Roof)|壁I（屋根）
+Wall I (Roof)|壁I（屋根）
+Drawbridge (Down)|跳ね橋（下がった状態）
+Drawbridge (Down)|跳ね橋（下がった状態）
+Drawbridge (Down)|跳ね橋（下がった状態）
+Wall I (Roof)|壁I（屋根）
+Wall I|壁I
+Wall I|壁I
+Wall I|壁I
+Wall I (Roof)|壁I（屋根）
+Drawbridge (Down)|跳ね橋（下がった状態）
+Drawbridge (Down)|跳ね橋（下がった状態）
+Drawbridge (Down)|跳ね橋（下がった状態）
+Wall Edge Detail (Wall I, Left B)|壁縁装飾（壁I・左B）
+Wall I|壁I
+Wall Edge Detail (Wall I, Right B)|壁縁装飾（壁I・右B）
+Steeple B (Wall Detail C, No Flag)|尖塔B（壁装飾C・旗なし）
+Steeple B (Wall Detail C, No Flag)|尖塔B（壁装飾C・旗なし）
+Steeple B (Wall Detail C, Flag)|尖塔B（壁装飾C・旗）
+Steeple B (Wall Detail C, Flag)|尖塔B（壁装飾C・旗）
+Rope|ロープ
+Wall Edge Detail (Wall I, Top Left)|壁縁装飾（壁I・左上）
+Wall Edge Detail (Wall I, Top)|壁縁装飾（壁I・上）
+Wall Edge Detail (Wall I, Top Right)|壁縁装飾（壁I・右上）
+Steeple A (Wall Detail C)|尖塔A（壁装飾C）
+Steeple A (Wall Detail C)|尖塔A（壁装飾C）
+Steeple B (Wall Detail C)|尖塔B（壁装飾C）
+Steeple B (Wall Detail C)|尖塔B（壁装飾C）
+Rope|ロープ
+Wall Edge Detail (Wall I, Top Left)|壁縁装飾（壁I・左上）
+Wall Edge Detail (Wall I, Top)|壁縁装飾（壁I・上）
+Wall Edge Detail (Wall I, Top Right)|壁縁装飾（壁I・右上）
+Steeple A (Wall Detail C)|尖塔A（壁装飾C）
+Steeple A (Wall Detail C)|尖塔A（壁装飾C）
+Steeple B (Wall Detail C)|尖塔B（壁装飾C）
+Steeple B (Wall Detail C)|尖塔B（壁装飾C）
+Rope|ロープ
+Wall Edge Detail (Wall I, Left A)|壁縁装飾（壁I・左A）
+Wall I|壁I
+Wall Edge Detail (Wall I, Right A)|壁縁装飾（壁I・右A）
+Steeple (Wall Detail C)|尖塔（壁装飾C）
+Steeple (Wall Detail C)|尖塔（壁装飾C）
+Steeple (Wall Detail C)|尖塔（壁装飾C）
+Steeple (Wall Detail C)|尖塔（壁装飾C）
+Iron ladder A|鉄はしごA
+Wall Edge Detail (Wall I, Bottom Left)|壁縁装飾（壁I・左下）
+Wall Edge Detail (Wall I, Bottom)|壁縁装飾（壁I・下）
+Wall Edge Detail (Wall I, Bottom Right)|壁縁装飾（壁I・右下）
+Wall I (Arched)|壁I（アーチ状）
+Wall I (Arched)|壁I（アーチ状）
+Wall I (Arched)|壁I（アーチ状）
+Wall I (Arched, Shadow)|壁I（アーチ状・影）
+Iron ladder B|鉄はしごB
+Wall I (Water Edge, Left)|壁I（水際・左）
+Wall I (Water Edge, Center)|壁I（水際・中央）
+Wall I (Water Edge, Right)|壁I（水際・右）
+|
+Wall I (Water Edge, Center, Shadow)|壁I（水際・中央・影）
+Wall I (Water Edge, Right, Shadow)|壁I（水際・右・影）
+Iron ladder (Down, Cover)|鉄はしご（下り・蓋）
+Iron ladder B|鉄はしごB
+Wall (Water Edge, Left)|水際の壁（左）
+Wall (Water Edge, Center)|水際の壁（中央）
+Wall (Water Edge, Right)|水際の壁（右）
+Shadow (Water Edge, Wall)|水際の壁の影
+Wall (Water Edge, Center, Shadow)|水際の壁（中央・影）
+Wall (Water Edge, Right, Shadow)|水際の壁（右・影）
+Iron ladder (Down)|鉄はしご（下り）
+Iron ladder B|鉄はしごB

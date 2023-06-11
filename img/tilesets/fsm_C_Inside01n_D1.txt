@@ -1,0 +1,256 @@
+﻿Canopy Bed|天蓋付きベッド
+Canopy Bed|天蓋付きベッド
+Canopy Bed|天蓋付きベッド
+Bed A|ベッドA
+Bed A (Sneak Through)|ベッドA（すり抜け）
+Bed A|ベッドA
+Bed A|ベッドA
+Bed A (Cannot Walk)|ベッドA（通行不可）
+Canopy Bed|天蓋付きベッド
+Canopy Bed|天蓋付きベッド
+Canopy Bed|天蓋付きベッド
+Bed A|ベッドA
+Bed A|ベッドA
+Bed A|ベッドA
+Bed A|ベッドA
+Bed A|ベッドA
+Canopy Bed|天蓋付きベッド
+Canopy Bed|天蓋付きベッド
+Canopy Bed|天蓋付きベッド
+Bed A|ベッドA
+Bed A|ベッドA
+Bed A|ベッドA
+Chair A (Right)|背もたれ椅子A（右向き）
+Chair A (Bottom)|背もたれ椅子A（下向き）
+Canopy Bed|天蓋付きベッド
+Canopy Bed|天蓋付きベッド
+Canopy Bed|天蓋付きベッド
+Bed A1|ベッドA1
+Bed A1|ベッドA1
+Bed A1|ベッドA1
+Chair A (Left)|背もたれ椅子A（左向き）
+Chair A (Top)|背もたれ椅子A（上向き）
+Canopy Bed (Sneak Through)|天蓋付きベッド（すり抜け）
+Canopy Bed|天蓋付きベッド
+Stool B|椅子B
+Bed A1|ベッドA1
+Bed A1|ベッドA1
+Bed A1|ベッドA1
+Chair B (Right)|背もたれ椅子B（右向き）
+Chair B (Bottom)|背もたれ椅子B（下向き）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A2|ベッドA2
+Bed A2|ベッドA2
+Bed A2|ベッドA2
+Chair B (Left)|背もたれ椅子B（左向き）
+Chair B (Top)|背もたれ椅子B（上向き）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A2|ベッドA2
+Bed A2|ベッドA2
+Bed A2|ベッドA2
+Round Table (Top Half B)|ラウンドテーブル（上半分B）
+Round Table (Top Half B)|ラウンドテーブル（上半分B）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A (Canopy)|ベッドA（天蓋）
+Bed A3|ベッドA3
+Bed A3|ベッドA3
+Bed A3|ベッドA3
+Round Table (Top Half A)|ラウンドテーブル（上半分A）
+Round Table (Top Half A)|ラウンドテーブル（上半分A）
+Bed A|ベッドA
+Bed A|ベッドA
+Bed A|ベッドA
+Bed A3|ベッドA3
+Bed A3|ベッドA3
+Bed A3|ベッドA3
+Round Table|ラウンドテーブル
+Round Table|ラウンドテーブル
+Bed B|ベッドB
+Books|本
+Celestial Globe|天球儀
+Cup & Teapot|カップとポット
+Vase B|花瓶B
+Table L|テーブルL
+Table L|テーブルL
+Table L|テーブルL
+Bed B|ベッドB
+Bed B (Can Walk)|ベッドB（通行可能）
+Bed B (Sneak Through)|ベッドB（すり抜け）
+Candlestick|燭台
+Fruit|果物
+Table L|テーブルL
+Table L|テーブルL
+Table L|テーブルL
+Bed B|ベッドB
+Bed B (Can Walk)|ベッドB（通行可能）
+Bed B (Sneak Through)|ベッドB（すり抜け）
+Throne Chair A|玉座の椅子A
+Throne Chair B|玉座の椅子B
+Throne Chair C|玉座の椅子C
+Throne Chair C|玉座の椅子C
+Throne Chair C|玉座の椅子C
+Stool C|椅子C
+Hideout Chair|隠れ家の椅子
+Stool D|椅子D
+Throne Chair A|玉座の椅子A
+Throne Chair B|玉座の椅子B
+Throne Chair C|玉座の椅子C
+Throne Chair C|玉座の椅子C
+Throne Chair C|玉座の椅子C
+Bed C|ベッドC
+Hideout Chair|隠れ家の椅子
+Bed C (Can Walk)|ベッドC（通行可能）
+Furniture C (Top Board A)|家具C（天板A）
+Furniture C (Top Board B)|家具C（天板B）
+Furniture C (Top Board, Double)|家具C（天板・両面）
+Furniture D (Top Board, Book)|家具D（天板・本）
+Furniture C (Top Board, Boxes)|家具C（天板・箱）
+Bed C|ベッドC
+Bed C (Can Walk)|ベッドC（通行可能）
+Bed C (Sneak Through)|ベッドC（すり抜け）
+Furniture C (Backward)|家具C（後ろ向き）
+Furniture C (Closet)|家具C（クローゼット）
+Furniture C (Chest of Drawers)|家具C（タンス）
+Furniture D (Top Board)|家具D（天板）
+Furniture C (Bookshelf)|家具C（本棚）
+Bed C|ベッドC
+Bed C (Can Walk)|ベッドC（通行可能）
+Bed C (Sneak Through)|ベッドC（すり抜け）
+Furniture C (Backward)|家具C（後ろ向き）
+Furniture C (Closet)|家具C（クローゼット）
+Furniture C (Chest of Drawers)|家具C（タンス）
+Furniture D (Chest)|家具D（チェスト）
+Furniture C (Bookshelf)|家具C（本棚）
+Tapestry A|タペストリーA
+Tapestry B|タペストリーB
+Wall Decoration A（Emblem）|壁飾りA（紋章）
+Wall Decoration B（Emblem）|壁飾りB（紋章）
+Wall Decoration C（Emblem）|壁飾りC（紋章）
+Painting A|絵A
+Painting B|絵B
+Painting C|絵C
+Tapestry A|タペストリーA
+Tapestry B|タペストリーB
+Wall Decoration D（Flag）|壁飾りD（旗）
+Tapestry C (Right)|タペストリーC（右向き）
+Tapestry C (Left)|タペストリーC（左向き）
+Wall Decoration E（Relief）|壁飾りE（レリーフ）
+Painting D|絵D
+Painting E|絵E
+Wall Hanging Candlestick|壁掛け燭台
+Mirror A|鏡A
+Wall Decoration F（Wall Deco）|壁飾りF（ウォールデコ）
+Tapestry D (Right)|タペストリーD（右向き）
+Tapestry D (Left)|タペストリーD（左向き）
+Wall Hanging Bookshelf|壁掛け本棚
+Painting F|絵F
+Painting G|絵G
+Wall Clock|壁掛け時計
+Mirror B|鏡B
+Mirror C|鏡C
+Painting H|絵H
+Painting I|絵I
+Painting I|絵I
+Painting J|絵J
+Painting J|絵J
+Wall Clock|壁掛け時計
+Mirror B|鏡B
+Mirror C|鏡C
+Map|地図
+Painting I|絵I
+Painting I|絵I
+Painting J|絵J
+Painting J|絵J
+Pillar A (Top A)|柱A（上A）
+Pillar B (Top A)|柱B（上A）
+Pillar C (Top A)|柱C（上A）
+Pillar D (Top A)|柱D（上A）
+Pillar E (Top A)|柱E（上A）
+Pillar F (Top A)|柱F（上A）
+Pillar G (Top A)|柱G（上A）
+Pillar H (Top A)|柱H（上A）
+Pillar A|柱A
+Pillar B|柱B
+Pillar C|柱C
+Pillar D|柱D
+Pillar E|柱E
+Pillar F|柱F
+Pillar G|柱G
+Pillar H|柱H
+Pillar A|柱A
+Pillar B|柱B
+Pillar C|柱C
+Pillar D|柱D
+Pillar E|柱E
+Pillar F|柱F
+Pillar G|柱G
+Pillar H|柱H
+Pillar A (Top B)|柱A（上B）
+Pillar B (Top B)|柱B（上B）
+Pillar C (Top B)|柱C（上B）
+Pillar D (Top B)|柱D（上B）
+Pillar E (Top B)|柱E（上B）
+Pillar F (Top B)|柱F（上B）
+Pillar G (Top B)|柱G（上B）
+Pillar H (Top B)|柱H（上B）
+Spears|槍
+Weapons Stand|武器スタンド
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Knight Statue (Bottom)|騎士像（下向き）
+Knight Statue (Top)|騎士像（上向き）
+Knight Statue (Right)|騎士像（右向き）
+Knight Statue (Left)|騎士像（左向き）
+Spears|槍
+Weapons Stand|武器スタンド
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Knight Statue (Bottom)|騎士像（下向き）
+Knight Statue (Top)|騎士像（上向き）
+Knight Statue (Right)|騎士像（右向き）
+Knight Statue (Left)|騎士像（左向き）
+Hanger (Cloth)|ハンガー（布）
+Weapons Stand|武器スタンド
+Weapons Stand (Spears)|武器スタンド（槍）
+Weapons Stand (Swords)|武器スタンド（剣）
+Arrow and Arrowhead|矢と矢尻
+Daggers|短剣
+Crate D|木箱D
+Crate F|木箱F
+Axe A|斧A
+Axe B|斧B
+Spears (Wall Hanging)|槍（壁掛け）
+Spears (Wall Hanging)|槍（壁掛け）
+Cannon (Top)|大砲（上向き）
+Cannon (Bottom)|大砲（下向き）
+Crate E|木箱E
+Crate F|木箱F
+Axes C|斧C
+Axes D|斧D
+Swords A|剣A
+Swords B|剣B
+Cannon (Top)|大砲（上向き）
+Cannon (Bottom)|大砲（下向き）
+Crate E (Shell)|木箱E（砲弾）
+Shell|砲弾
+Axe E|斧E
+Shield A|盾A
+Shields B|盾B
+Shields C|盾C
+Cannon (Left)|大砲（左向き）
+Cannon (Left)|大砲（左向き）
+Cannon (Right)|大砲（右向き）
+Cannon (Right)|大砲（右向き）
+Axe F|斧F
+Helmet|兜
+Quiver|矢筒
+Bows|弓
+Cannon (Left)|大砲（左向き）
+Cannon (Left)|大砲（左向き）
+Cannon (Right)|大砲（右向き）
+Cannon (Right)|大砲（右向き）

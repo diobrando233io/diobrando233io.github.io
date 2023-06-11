@@ -1,0 +1,256 @@
+﻿|
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+|
+Chimney A|煙突A
+Chimney A|煙突A
+Chimney A|煙突A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Chimney A|煙突A
+Chimney A|煙突A
+Chimney A|煙突A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof Detail A (Roof A)|屋根飾りA（屋根A）
+Roof Detail C (Roof A, Left)|屋根飾りC（屋根A・左）
+Roof Detail C (Roof A, Left)|屋根飾りC（屋根A・左）
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof Detail A (Roof A)|屋根飾りA（屋根A）
+Roof Detail C (Roof A, Left)|屋根飾りC（屋根A・左）
+Roof Detail C (Roof A, Left)|屋根飾りC（屋根A・左）
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof Detail B (Roof A)|屋根飾りB（屋根A）
+Roof Detail C (Roof A, Right)|屋根飾りC（屋根A・右）
+Roof Detail C (Roof A, Right)|屋根飾りC（屋根A・右）
+Roof A|屋根A
+Roof A|屋根A
+Shadow (Roof)|影（屋根）
+Roof A|屋根A
+Roof A|屋根A
+Roof Detail B (Roof A)|屋根飾りB（屋根A）
+Roof Detail C (Roof A, Right)|屋根飾りC（屋根A・右）
+Roof Detail C (Roof A, Right)|屋根飾りC（屋根A・右）
+Roof A|屋根A
+Shadow (Roof)|影（屋根）
+|
+Shadow (Roof)|影（屋根）
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Window A (Under the Roof)|窓A（屋根の下）
+Window B (Under the Roof)|窓B（屋根の下）
+Window C (Under the Roof)|窓C（屋根の下）
+Roof A|屋根A
+Roof A|屋根A
+Roof A (Bottom B)|屋根A（下端B）
+Roof A|屋根A
+Roof A|屋根A
+Weathercock|風見鶏
+Roof Detail C (Roof A)|屋根飾りC（屋根A）
+Roof Detail C (Roof A)|屋根飾りC（屋根A）
+Roof A (Bottom)|屋根A（下端）
+Roof A|屋根A
+Roof A|屋根A
+Roof A (Bottom)|屋根A（下端）
+Roof A (Bottom A)|屋根A（下端A）
+Weathercock|風見鶏
+Roof Detail C (Roof A)|屋根飾りC（屋根A）
+Roof Detail C (Roof A)|屋根飾りC（屋根A）
+Outer Wall Detail (Top)|外壁装飾（上端）
+Outer Wall Detail (Top)|外壁装飾（上端）
+Outer Wall Detail (Top)|外壁装飾（上端）
+Outer Wall Detail|外壁装飾
+Outer Wall Detail (Top)|外壁装飾（上端）
+Outer Wall Detail (Top)|外壁装飾（上端）
+Outer Wall Detail|外壁装飾
+Outer Wall Detail|外壁装飾
+Outer Wall Detail|外壁装飾
+Outer Wall Detail|外壁装飾
+Outer Wall Detail|外壁装飾
+Outer Wall Detail|外壁装飾
+Outer Wall Detail|外壁装飾
+Outer Wall Detail|外壁装飾
+Large Window A|大型窓A
+Large Window A|大型窓A
+Outer Wall Detail (Bottom)|外壁装飾（下端）
+Outer Wall Detail (Bottom)|外壁装飾（下端）
+Outer Wall Detail (Bottom)|外壁装飾（下端）
+Outer Wall Detail (Bottom)|外壁装飾（下端）
+Outer Wall Detail (Bottom)|外壁装飾（下端）
+Outer Wall Detail (Bottom)|外壁装飾（下端）
+Large Window A|大型窓A
+Large Window A|大型窓A
+Eaves (Large Window)|大型窓の庇
+Eaves (Large Window)|大型窓の庇
+Window A (Top Half A)|窓A（上半分A）
+Window B (Top Half A)|窓B（上半分A）
+Window C (Top Half A)|窓C（上半分A）
+Window C (Top Half A)|窓C（上半分A）
+Window A (Bottom Half B)|窓A（下半分B）
+Window A (Bottom Half C)|窓A（下半分C）
+Entrance|入口
+Eaves (Window)|窓の庇
+Window A (Bottom Half A)|窓A（下半分A）
+Window B|窓B
+Window C (Bottom Half A)|窓C（下半分A）
+Window C (Bottom Half A)|窓C（下半分A）
+Window C (Bottom Half B)|窓C（下半分B）
+Window C (Bottom Half B)|窓C（下半分B）
+Entrance|入口
+Gate Lamp|門灯
+Window A (Top Half B)|窓A（上半分B）
+Window B (Top Half B)|窓B（上半分B）
+Window C (Top Half B)|窓C（上半分B）
+Window C (Top Half B)|窓C（上半分B）
+Window C (Bottom Half C)|窓C（下半分C）
+Window C (Bottom Half C)|窓C（下半分C）
+Window D|窓D
+Window E|窓E
+Window F|窓F
+Window G|窓G
+Window J (Top Half A)|窓J（上半分A）
+Window K (Top Half A)|窓K（上半分A）
+Large Window B (Top Half A)|大型窓B（上半分A）
+Large Window B (Top Half A)|大型窓B（上半分A）
+Window D (Bottom Half A)|窓C（下半分A）
+Window E|窓E
+Window H|窓H
+Window I|窓I
+Window J|窓J
+Window K|窓K
+Large Window B|大型窓B
+Large Window B|大型窓B
+Window D (Bottom Half B)|窓C（下半分B）
+Window D (Bottom Half C)|窓C（下半分C）
+Window H|窓H
+Window J (Top Half B)|窓J（上半分B）
+Window K (Top Half B)|窓K（上半分B）
+Large Window B (Top Half B)|大型窓B（上半分B）
+Large Window B (Top Half B)|大型窓B（上半分B）
+Ladder A|はしごA
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Roof A (Slip Through)|屋根A（すり抜け）
+Ladder B|はしごB
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Roof A (Slip Through)|屋根A（すり抜け）
+Ladder B|はしごB
+Outer Wall (Arched)|外壁（アーチ状）
+Shadow (Outer Wall, Arched)|アーチ状の外壁の影
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Outer Wall (Arched)|外壁（アーチ状）
+Roof A (Slip Through)|屋根A（すり抜け）
+Ladder B|はしごB
+Shadow (Outer Wall, Arched)|アーチ状の外壁の影
+Fence A|塀A
+Fence A|塀A
+Fence A|塀A
+Fence A|塀A
+Fence B|塀B
+Fence B|塀B
+Fence B|塀B
+Fence A|塀A
+Fence A|塀A
+Fence A|塀A
+Fence A|塀A
+Fence B|塀B
+Fence B|塀B
+Fence B|塀B
+Fence B|塀B
+Fence A|塀A
+Fence A|塀A
+Fence A|塀A
+Fence A|塀A
+Fence B|塀B
+Fence B|塀B
+Fence B|塀B
+Fence B|塀B
+Fence A|塀A
+Fence A|塀A
+Fence A|塀A
+Fence A|塀A
+Fence B|塀B
+Fence B|塀B
+Fence B|塀B
+Fence B|塀B
+Entrance Stairs|玄関口階段
+|
+Entrance Stairs|玄関口階段
+Roof A (Slip Through)|屋根A（すり抜け）
+Roof A (Slip Through)|屋根A（すり抜け）
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Entrance Stairs|玄関口階段
+Entrance Stairs|玄関口階段
+Entrance Stairs|玄関口階段
+Roof A (Slip Through)|屋根A（すり抜け）
+Roof A (Slip Through)|屋根A（すり抜け）
+Roof A|屋根A
+|
+Roof A|屋根A
+Entrance Stairs|玄関口階段
+Entrance Stairs|玄関口階段
+Entrance Stairs|玄関口階段
+Roof A (Slip Through)|屋根A（すり抜け）
+Roof A (Slip Through)|屋根A（すり抜け）
+Roof A|屋根A
+Roof A|屋根A
+Roof A|屋根A
+Roof B|屋根B
+Roof B|屋根B
+Roof B|屋根B
+Roof A|屋根A
+Roof A|屋根A
+Roof C|屋根C
+Roof C|屋根C
+Roof C|屋根C
+Roof B|屋根B
+Roof B|屋根B
+Roof B|屋根B
+Roof Detail (Roof A)|屋根飾り（屋根A）
+Roof Detail (Roof A)|屋根飾り（屋根A）
+Roof C|屋根C
+Roof C|屋根C
+Roof C|屋根C
+Roof B|屋根B
+Roof B|屋根B
+Roof B|屋根B
+Roof Detail (Roof A)|屋根飾り（屋根A）
+Window (Roof Detail)|窓（屋根飾り）
+Roof C|屋根C
+Roof C|屋根C
+Roof C|屋根C

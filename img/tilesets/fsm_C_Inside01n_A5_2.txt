@@ -1,0 +1,128 @@
+﻿Darkness|暗闇
+Wood Floor A|木の床A
+Stone Floor A|石床A
+Brick Floor|レンガの床
+Rug E|じゅうたんE
+Wood Floor B|木の床B
+Marble Floor A|大理石の床A
+Marble Floor B|大理石の床B
+Transparent|透明
+Gravel Floor|砂利床
+Stone Floor B|石床B
+Stone Floor G|石床G
+Rug B|じゅうたんB
+Wood Floor B|木の床B
+Marble Floor A|大理石の床A
+Marble Floor B|大理石の床B
+Gravel Floor|砂利床
+Gravel Floor|砂利床
+Stone Floor H|石床H
+Stone Floor I|石床I
+Rug D|じゅうたんD
+Wood Floor B|木の床B
+Marble Floor A|大理石の床A
+Marble Floor B|大理石の床B
+Gravel Floor|砂利床
+Gravel Floor|砂利床
+Stone Floor J|石床J
+Stone Floor J|石床J
+Rug F|じゅうたんF
+Stone Floor C|石床C
+Stone Floor C|石床C
+Stone Floor C|石床C
+Ledge A (Stone A, Center, Shadow)|段差A（石A・中央・影）
+Ledge A (Stone A, Left)|段差A（石A・左）
+Ledge A (Stone A, Center)|段差A（石A・中央）
+Ledge A (Stone A, Right)|段差A（石A・右）
+Stairs C (Stone, Left)|階段C（石・左）
+Stairs C (Stone, Center)|階段C（石・中央）
+Stairs C (Stone, Right)|階段C（石・右）
+Stairs D (Stone)|階段D（石）
+Ledge B (Brick, Center, Shadow)|段差B（レンガ・中央・影）
+Ledge B (Brick, Left)|段差B（レンガ・左）
+Ledge B (Brick, Center)|段差B（レンガ・中央）
+Ledge B (Brick, Right)|段差B（レンガ・右）
+Ledge (Stone Floor F, Passable Downward)|段差（石床F・下方向通行可能）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Ledge C (Stone B, Center, Shadow)|段差C（石B・中央・影）
+Ledge C (Stone B, Left)|段差C（石B・左）
+Ledge C (Stone B, Center)|段差C（石B・中央）
+Ledge C (Stone B, Right)|段差C（石B・右）
+Ledge (Stone Floor F, Passable Downward)|段差（石床F・下方向通行可能）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Stone Floor F|石床F
+Stone Floor F|石床F
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Wall U (Red Brick)|壁U（赤レンガ）
+Ledge (Stone Floor F)|段差（石床F）
+Stone Floor F|石床F
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Ledge (Stone Floor F)|段差（石床F）
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Hole C|穴C
+Wall R (No Coffin, Top)|壁R（棺なし・上端）
+Wall R (No Coffin, Top)|壁R（棺なし・上端）
+Wall R (Coffin A, Top)|壁R（棺A・上端）
+Wall R (Coffin A, Top)|壁R（棺A・上端）
+Wall R (Coffin B, Top)|壁R（棺B・上端）
+Wall R (Coffin B, Top)|壁R（棺B・上端）
+Wall R (Coffin C, Top)|壁R（棺C・上端）
+Wall R (Coffin C, Top)|壁R（棺C・上端）
+Wall R (No Coffin)|壁R（棺なし）
+Wall R (No Coffin)|壁R（棺なし）
+Wall R (Coffin A)|壁R（棺A）
+Wall R (Coffin A)|壁R（棺A）
+Wall R (Coffin B)|壁R（棺B）
+Wall R (Coffin B)|壁R（棺B）
+Wall R (Coffin C)|壁R（棺C）
+Wall R (Coffin C)|壁R（棺C）
+Wall R (No Coffin, Bottom)|壁R（棺なし・下端）
+Wall R (No Coffin, Bottom)|壁R（棺なし・下端）
+Wall R (Coffin A, Bottom)|壁R（棺A・下端）
+Wall R (Coffin A, Bottom)|壁R（棺A・下端）
+Wall R (Coffin B, Bottom)|壁R（棺B・下端）
+Wall R (Coffin B, Bottom)|壁R（棺B・下端）
+Wall R (Coffin C, Bottom)|壁R（棺C・下端）
+Wall R (Coffin C, Bottom)|壁R（棺C・下端）

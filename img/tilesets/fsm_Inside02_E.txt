@@ -1,0 +1,256 @@
+﻿Wall A|壁A
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall B|壁B
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Wall B|壁B
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+|
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Shadow (Slanting Wall)|影（斜め壁）
+|
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Shadow (Slanting Wall)|影（斜め壁）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Wall B|壁B
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Wall A|壁A
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall B|壁B
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Wall B|壁B
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall A|壁A
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Wall B|壁B
+Wall B|壁B
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall A|壁A
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Wall B|壁B
+Wall B|壁B
+Slanting Wall (Wall A)|斜め壁（壁A）
+Slanting Wall (Wall A)|斜め壁（壁A）
+Wall A|壁A
+Wall A|壁A
+Slanting Wall (Wall B)|斜め壁（壁B）
+Slanting Wall (Wall B)|斜め壁（壁B）
+Wall B|壁B
+Wall B|壁B
+Wall N|壁N
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Wall N|壁N
+Wall U|壁U
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U|壁U
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+|
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Shadow (Slanting Wall)|影（斜め壁）
+|
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Shadow (Slanting Wall)|影（斜め壁）
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Wall N|壁N
+Shadow (Slanting Wall)|影（斜め壁）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U|壁U
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall N|壁N
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Wall N|壁N
+Wall U|壁U
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U|壁U
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Wall N|壁N
+Wall N|壁N
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U|壁U
+Wall U|壁U
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Wall N|壁N
+Wall N|壁N
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U|壁U
+Wall U|壁U
+Slanting Wall (Wall N)|斜め壁（壁N）
+Slanting Wall (Wall N)|斜め壁（壁N）
+Wall N|壁N
+Wall N|壁N
+Slanting Wall (Wall U)|斜め壁（壁U）
+Slanting Wall (Wall U)|斜め壁（壁U）
+Wall U|壁U
+Wall U|壁U
+Wall N (Can Walk)|壁N（通行可能）
+Window I|窓I
+Window J|窓J
+Wall Detail|壁装飾
+Slanting Wall Window A (Right)|斜め壁の窓A（右向き）
+Slanting Wall Window A (Left)|斜め壁の窓A（左向き）
+Slanting Wall Window B (Right)|斜め壁の窓B（右向き）
+Slanting Wall Window B (Left)|斜め壁の窓B（左向き）
+Wall Detail A (Wall N)|壁装飾A（壁N）
+Wall Detail A (Wall N)|壁装飾A（壁N）
+Wall Detail B (Wall N)|壁装飾B（壁N）
+Wall Detail B (Wall N)|壁装飾B（壁N）
+Slanting Wall Window A (Right)|斜め壁の窓A（右向き）
+Slanting Wall Window A (Left)|斜め壁の窓A（左向き）
+Slanting Wall Window B (Right)|斜め壁の窓B（右向き）
+Slanting Wall Window B (Left)|斜め壁の窓B（左向き）
+Wall Detail A (Wall N)|壁装飾A（壁N）
+Wall Detail B (Wall N)|壁装飾B（壁N）
+Wall Detail C (Wall N)|壁装飾C（壁N）
+Wall Detail B (Wall N, Shadow)|壁装飾B（壁N・影）
+Slanting Wall Window C (Right)|斜め壁の窓C（右向き）
+Slanting Wall Window C (Left)|斜め壁の窓C（左向き）
+Slanting Wall Window D (Right)|斜め壁の窓D（右向き）
+Slanting Wall Window D (Left)|斜め壁の窓D（左向き）
+Wall Detail A (Wall N)|壁装飾A（壁N）
+Wall Detail B (Wall N)|壁装飾B（壁N）
+Wall Detail C (Wall N)|壁装飾C（壁N）
+Wall Detail B (Wall N, Shadow)|壁装飾B（壁N・影）
+Slanting Wall Window A (Dark, Right)|斜め壁の窓A（暗闇・右向き）
+Slanting Wall Window A (Dark, Left)|斜め壁の窓A（暗闇・左向き）
+Slanting Wall Window B (Dark, Right)|斜め壁の窓B（暗闇・右向き）
+Slanting Wall Window B (Dark, Left)|斜め壁の窓B（暗闇・左向き）
+Wall Detail A (Wall O)|壁装飾A（壁O）
+Wall Detail A (Wall O)|壁装飾A（壁O）
+Wall Detail B (Wall O)|壁装飾B（壁O）
+Wall Detail B (Wall O)|壁装飾B（壁O）
+Slanting Wall Window A (Dark, Right)|斜め壁の窓A（暗闇・右向き）
+Slanting Wall Window A (Dark, Left)|斜め壁の窓A（暗闇・左向き）
+Slanting Wall Window B (Dark, Right)|斜め壁の窓B（暗闇・右向き）
+Slanting Wall Window B (Dark, Left)|斜め壁の窓B（暗闇・左向き）
+Wall Detail A (Wall O)|壁装飾A（壁O）
+Wall Detail B (Wall O)|壁装飾B（壁O）
+Wall Detail C (Wall O)|壁装飾C（壁O）
+Wall Detail B (Wall O, Shadow)|壁装飾B（壁O・影）
+Slanting Wall Window C (Dark, Right)|斜め壁の窓C（暗闇・右向き）
+Slanting Wall Window C (Dark, Left)|斜め壁の窓C（暗闇・左向き）
+Slanting Wall Window D (Dark, Right)|斜め壁の窓D（暗闇・右向き）
+Slanting Wall Window D (Dark, Left)|斜め壁の窓D（暗闇・左向き）
+Wall Detail A (Wall O)|壁装飾A（壁O）
+Wall Detail B (Wall O)|壁装飾B（壁O）
+Wall Detail C (Wall O)|壁装飾C（壁O）
+Wall Detail B (Wall O, Shadow)|壁装飾B（壁O・影）
+Wall O (Can Walk)|壁O（通行可能）
+Window K|窓K
+Window K (Dark)|窓K（暗闇）
+Window L|窓L
+Coffin A|棺A
+Coffin A1|棺A1
+Coffin A|棺A
+Coffin A2|棺A2
+Coffin A3|棺A3
+Window M|窓M
+Window M (Dark)|窓M（暗闇）
+Window L (Dark)|窓L（暗闇）
+Coffin A|棺A
+Coffin A1|棺A1
+Coffin A|棺A
+Coffin A2|棺A2
+Coffin A3|棺A3
+Coffin A (Coffin Decoration A)|棺A（棺装飾A）
+Coffin A (Coffin Decoration A)|棺A（棺装飾A）
+Coffin A (Coffin Decoration A)|棺A（棺装飾A）
+Coffin A|棺A
+Coffin A1|棺A1
+Coffin A|棺A
+Coffin A2|棺A2
+Coffin A3|棺A3
+Coffin A (Coffin Decoration B)|棺A（棺装飾B）
+Coffin A (Coffin Decoration B)|棺A（棺装飾B）
+Coffin A (Coffin Decoration B)|棺A（棺装飾B）
+Coffin A|棺A
+Coffin A|棺A
+Coffin A|棺A
+Blue Orb|青い宝珠
+Pillar A (Pedestal)|柱A（台座）
+Pillar B (Pedestal)|柱B（台座）
+Pillar C (Pedestal)|柱C（台座）
+Pillar D (Pedestal)|柱D（台座）
+Coffin B (Top)|棺B（上向き）
+Coffin B (Bottom)|棺B（下向き）
+Purple Orb|紫の宝珠
+Red Orb|赤い宝珠
+Pillar A|柱A
+Pillar B|柱B
+Pillar C|柱C
+Pillar D|柱D
+Coffin B (Top)|棺B（上向き）
+Coffin B (Bottom)|棺B（下向き）
+Coffin C|棺C
+Coffin C|棺C
+Pillar A|柱A
+Pillar B|柱B
+Pillar C|柱C
+Pillar D|柱D
+Coffin B (Left)|棺B（左向き）
+Coffin B (Left)|棺B（左向き）
+Coffin B (Right)|棺B（右向き）
+Coffin B (Right)|棺B（右向き）
+Pillar A|柱A
+Pillar B|柱B
+Pillar C|柱C
+Pillar D|柱D

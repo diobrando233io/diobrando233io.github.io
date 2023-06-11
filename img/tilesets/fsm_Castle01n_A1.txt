@@ -1,0 +1,16 @@
+﻿Water (Meadow A)|水場（草地A）
+Ledge (Water Bottom)|水底の段差
+Deep Water|深い水場
+Water Plants|水草
+Water (Whole Surface)|水場（全面）
+Waterfall (Wall E)|滝（壁E）
+Canal B|水路B
+Waterfall (Wall G)|滝（壁G）
+Canal A|水路A
+Waterfall (Cliff)|滝（崖）
+Canal A (Whole Surface)|水路A（全面）
+Waterfall (Wall P, Wall R)|滝（壁P・壁R）
+Canal C|水路C
+Waterfall (Wall I, Wall J)|滝（壁I・壁J）
+Canal D|水路D
+Waterfall|滝

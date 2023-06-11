@@ -1,0 +1,256 @@
+﻿Wall A (Wall Detail)|壁A（壁装飾）
+Wall B (Wall Detail)|壁B（壁装飾）
+Wall C (Wall Detail)|壁C（壁装飾）
+Wall D (Wall Detail)|壁D（壁装飾）
+Wall E (Wall Detail)|壁E（壁装飾）
+Partition A|ついたてA
+Partition A|ついたてA
+Partition A|ついたてA
+Wall A (Wall Detail)|壁A（壁装飾）
+Wall B (Wall Detail)|壁B（壁装飾）
+Wall C (Wall Detail)|壁C（壁装飾）
+Wall D (Wall Detail)|壁D（壁装飾）
+Wall E (Wall Detail)|壁E（壁装飾）
+Partition A|ついたてA
+Partition A|ついたてA
+Partition A|ついたてA
+Wall F (Wall Detail)|壁F（壁装飾）
+Wall G (Wall Detail)|壁G（壁装飾）
+Wall H (Wall Detail)|壁H（壁装飾）
+Wall K (Wall Detail)|壁K（壁装飾）
+Wall L (Wall Detail)|壁L（壁装飾）
+Partition B|ついたてB
+Partition B|ついたてB
+Partition B|ついたてB
+Wall F (Wall Detail)|壁F（壁装飾）
+Wall G (Wall Detail)|壁G（壁装飾）
+Wall H (Wall Detail)|壁H（壁装飾）
+Wall K (Wall Detail)|壁K（壁装飾）
+Wall L (Wall Detail)|壁L（壁装飾）
+Partition B|ついたてB
+Partition B|ついたてB
+Partition B|ついたてB
+Furniture A (Top Board)|家具A（天板）
+Furniture A (Top Board, Double)|家具A（天板・両面）
+Furniture A (Top Board, Books)|家具A（天板・本）
+Furniture B (Top Board)|家具B（天板）
+Furniture B (Top Board, Double)|家具B（天板・両面）
+Furniture B (Top Board, Celestial Globe)|家具B（天板・天球儀）
+Cabinet|戸棚
+Shelf (V)|棚（縦）
+Furniture A (Closet)|家具A（クローゼット）
+Furniture A (Chest of Drawers)|家具A（タンス）
+Furniture A (Bookshelf)|家具A（本棚）
+Furniture B (Chest of Drawers)|家具B（タンス）
+Furniture B (Bookshelf)|家具B（本棚）
+Furniture B (Sundries Shelf)|家具B（雑貨棚）
+Cabinet|戸棚
+Shelf A (V)|棚A（縦）
+Furniture A (Drawer A)|家具A（引き出しA）
+Furniture A (Drawer B)|家具A（引き出しB）
+Furniture A (Bookshelf)|家具A（本棚）
+Furniture B (Common)|家具B（共通）
+Shelf B (V, Right)|棚B（縦・右向き）
+Shelf B (V, Left)|棚B（縦・左向き）
+Cabinet|戸棚
+Shelf A (V)|棚A（縦）
+Chest A|チェストA
+Chest B|チェストB
+Chest B|チェストB
+Chest B|チェストB
+Shelf B (V, Right)|棚B（縦・右向き）
+Shelf B (V, Left)|棚B（縦・左向き）
+Corner Chest (Left)|コーナーチェスト（左向き）
+Corner Chest (Right)|コーナーチェスト（右向き）
+Chest A|チェストA
+Chest B|チェストB
+Chest B|チェストB
+Chest B|チェストB
+Shelf B (V, Right)|棚B（縦・右向き）
+Shelf B (V, Left)|棚B（縦・左向き）
+Corner Chest (Left)|コーナーチェスト（左向き）
+Corner Chest (Right)|コーナーチェスト（右向き）
+Sofa A (Right)|ソファーA（右向き）
+Sofa A (Left)|ソファーA（左向き）
+Sofa D (Up)|ソファーD（上向き）
+Sofa D (Up)|ソファーD（上向き）
+Sofa C (Up)|ソファーC（上向き）
+Desk|デスク
+Desk (Dresser A)|デスク（鏡台A）
+Desk (Study Desk)|デスク（勉強机）
+Sofa A (Right)|ソファーA（右向き）
+Sofa A (Left)|ソファーA（左向き）
+Sofa D (Up)|ソファーD（上向き）
+Sofa D (Up)|ソファーD（上向き）
+Sofa C (Up)|ソファーC（上向き）
+Desk|デスク
+Desk (Stool)|デスク（椅子あり）
+Desk (Dresser B)|デスク（鏡台B）
+Sofa B (Right)|ソファーB（右向き）
+Sofa B (Left)|ソファーB（左向き）
+Sofa D (Down)|ソファーD（下向き）
+Sofa D (Down)|ソファーD（下向き）
+Sofa C (Down)|ソファーC（下向き）
+Desk (Drawer)|デスク（引き出し）
+Stool (Desk)|デスク用の椅子
+Desk (Desk Lamp)|デスク（卓上ランプ）
+Sofa B (Right)|ソファーB（右向き）
+Sofa B (Left)|ソファーB（左向き）
+Sofa D (Down)|ソファーD（下向き）
+Sofa D (Down)|ソファーD（下向き）
+Sofa C (Down)|ソファーC（下向き）
+Vase A|花瓶A
+Books and Vase|本と花瓶
+Desk Lamp|卓上ランプ
+Stand Lamp|スタンドランプ
+Potted Plant A|植木鉢A
+Potted Plant B|植木鉢B
+Potted Plant C|植木鉢C
+Books A|本A
+Books B|本B
+Books C|本C
+Books D|本D
+Stand Lamp|スタンドランプ
+Potted Plant A|植木鉢A
+Mini Table A (Candlestick)|ミニテーブルA（燭台）
+Mini Table A (Lamp)|ミニテーブルA（ランプ）
+Mini Table B (Top Half)|ミニテーブルB（上半分）
+Mini Table B (Top Half, Vase)|ミニテーブルB（上半分・花瓶）
+Mini Table B (Top Half, Candlestick)|ミニテーブルB（上半分・燭台）
+Costume Chest|衣装箱
+Mini Table A|ミニテーブルA
+Mini Table A (Vase)|ミニテーブルA（花瓶）
+Mini Table A (Candlestick)|ミニテーブルA（燭台）
+Mini Table A (Lamp)|ミニテーブルA（ランプ）
+Mini Table B (Bottom Half A)|ミニテーブルB（下半分A）
+Mini Table B (Bottom Half B)|ミニテーブルB（下半分B）
+Lamp (Mini Table B, Top Half)|ランプ（ミニテーブルB・上半分）
+Costume Chest|衣装箱
+Fireplace A (Top A)|暖炉A（上A）
+Fireplace A (Top A)|暖炉A（上A）
+Fireplace A (Top A)|暖炉A（上A）
+Flower Lease|フラワーリース
+Fireplace B (Vase)|暖炉B（花瓶）
+Fireplace B, Fireplace A (Top B)|暖炉B・暖炉A（上B）
+Fireplace B (Candlestick)|暖炉B（燭台）
+Firewood|薪
+Fireplace A (Center A)|暖炉A（中央A）
+Fireplace A (Center A)|暖炉A（中央A）
+Fireplace A (Center A)|暖炉A（中央A）
+Fireplace C|暖炉C
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Firewood|薪
+Fireplace A|暖炉A
+Fireplace A|暖炉A
+Fireplace A|暖炉A
+Fireplace C|暖炉C
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Fireplace B|暖炉B
+Fireplace fence (Fireplace B)|暖炉用フェンス（暖炉B）
+Fireplace A (Center B)|暖炉A（中央B）
+Fireplace A (Center B)|暖炉A（中央B）
+Fireplace A (Center B)|暖炉A（中央B）
+Fireplace C|暖炉C
+Fireplace B (Books and Picture)|暖炉B（本と写真立て）
+Storage shelf (Wall N)|収納棚（壁N）
+kiln (Wall N)|窯（壁N）
+kiln (Wall N, Bottom C)|窯（壁N・下C）
+Wall N|壁N
+Wall N (Wall Detail)|壁N（壁装飾）
+Dish Shelf A (Wall N)|食器棚A（壁N）
+Dish Shelf B (Wall N)|食器棚B（壁N）
+Dish Shelf B (Wall N)|食器棚B（壁N）
+Storage shelf (Wall N)|収納棚（壁N）
+kiln (Wall N, Center A)|窯（壁N・中央A）
+kiln (Wall N, Center B)|窯（壁N・中央B）
+Wall N|壁N
+Wall N (Wall Detail)|壁N（壁装飾）
+Dish Shelf A (Wall N)|食器棚A（壁N）
+Dish Shelf B (Wall N)|食器棚B（壁N）
+Dish Shelf B (Wall N)|食器棚B（壁N）
+Storage shelf (Wall N)|収納棚（壁N）
+kiln (Wall N, Bottom A)|窯（壁N・下C）
+kiln (Wall N, Bottom B)|窯（壁N・下B）
+Kitchen Counter (Left B)|調理台（左B）
+Kitchen Counter (Center B)|調理台（中央B）
+Kitchen Counter (Right B)|調理台（右B）
+Dish Shelf C|食器棚C
+Dish Shelf C|食器棚C
+Kitchen Counter (V)|調理台（縦）
+Foodstuff|食材
+Dishes|皿
+Kitchen Counter (Left A)|調理台（左A）
+Kitchen Counter (Center A)|調理台（中央A）
+Kitchen Counter (Right A)|調理台（右A）
+Dish Shelf C|食器棚C
+Dish Shelf C|食器棚C
+Kitchen Counter (V)|調理台（縦）
+Cutting Board (V, Left)|まな板（縦・左向き）
+Cutting Board (V, Right)|まな板（縦・右向き）
+Kitchen Counter (Left A)|調理台（左A）
+Kitchen Counter (Center A)|調理台（中央A）
+Kitchen Counter (Right A)|調理台（右A）
+Dish Shelf C|食器棚C
+Dish Shelf C|食器棚C
+Kitchen Counter (V)|調理台（縦）
+Cooking Utensils|調理器具
+Bottles|ボトル
+Oven (Left)|かまど（左）
+Oven (Center)|かまど（中央）
+Oven (Right)|かまど（右）
+Frying Pan A|フライパンA
+Frying Pan B|フライパンB
+Mystery Dishes|謎の料理
+Cooking Disaster|失敗料理
+Plates (After Meals)|食後の皿
+Sink A|流しA
+Sink B|流しB
+Sink C|流しC
+Pot C|鍋C
+Steak (Oven)|ステーキ（かまど）
+Cake|ケーキ
+Cuisine A|料理A
+Bread Assorted|パンの盛り合わせ
+Cutting Board|まな板
+Pot A|鍋A
+Pot B|鍋B
+Pot C|鍋C
+Skewer-grilled (Oven)|串焼き（かまど）
+Fruit Platter|フルーツ盛り合わせ
+Cuisine B|料理B
+Soup|スープ
+Wall N (Can Walk)|壁N（通行可能）
+Cuisine C (Bottom)|料理C（下）
+Cuisine C (Top)|料理C（上）
+Cuisine C (Left)|料理C（左）
+Cuisine C (Right)|料理C（右）
+Cuisine D|料理D
+Cuisine E|料理E
+Cuisine F|料理F
+Wall Detail A (Wall N)|壁装飾A（壁N）
+Wall Detail A (Wall N)|壁装飾A（壁N）
+Wall Detail B (Wall N)|壁装飾B（壁N）
+Wall Detail B (Wall N)|壁装飾B（壁N）
+Baggage A|荷物A
+Baggage B|荷物B
+Pot A|壺A
+Pot B|壺B
+Wall Detail A (Wall N)|壁装飾A（壁N）
+Wall Detail B (Wall N)|壁装飾B（壁N）
+Wall Detail C (Wall N)|壁装飾C（壁N）
+Wall Detail B (Wall N, Shadow)|壁装飾B（壁N・影）
+Sacks A|麻袋A
+Crates A|木箱A
+Barrel A|樽A
+Barrel B|樽B
+Wall Detail A (Wall N)|壁装飾A（壁N）
+Wall Detail B (Wall N)|壁装飾B（壁N）
+Wall Detail C (Wall N)|壁装飾C（壁N）
+Wall Detail B (Wall N, Shadow)|壁装飾B（壁N・影）
+Sack B|麻袋B
+Crates A|木箱A
+Crate B|木箱B
+Crate C|木箱C
